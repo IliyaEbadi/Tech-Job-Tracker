@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local secrets (the tracker itself needs none)
+.env
+.env.local
+
+# The original project brief (keep it locally, out of the portfolio repo)
+*.docx
+
+# Local scratch output
+*.log
+tmp/

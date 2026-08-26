@@ -1,0 +1,11 @@
+# Keep line endings identical on Windows and on the Ubuntu Actions runner.
+#
+# The tracker writes its artifacts with "\n" so that identical data produces a
+# byte-identical file. Without this, Git's autocrlf would check them out as
+# CRLF on Windows and every local run would look like a change.
+* text=auto eol=lf
+
+# Generated artifacts: never treat as anything but LF text.
+data/*.json     text eol=lf
+reports/*.json  text eol=lf
+reports/*.md    text eol=lf

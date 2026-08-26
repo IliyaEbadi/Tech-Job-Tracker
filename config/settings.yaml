@@ -1,0 +1,231 @@
+# Toronto Tech Job Intelligence Tracker - configuration
+#
+# Everything the tracker treats as "interesting" is defined here, in plain
+# English, so the search can be changed without touching any Python code.
+
+# ---------------------------------------------------------------------------
+# HTTP behaviour (be a polite client: identify yourself, time out, go slowly)
+# ---------------------------------------------------------------------------
+http:
+  # Sent as the User-Agent header so source operators can see who is calling.
+  user_agent: "toronto-tech-job-tracker/1.0 (+https://github.com/IliyaEbadi/Tech-Job-Tracker)"
+  timeout_seconds: 20
+  max_retries: 2
+  # Pause between HTTP requests, in seconds. Keeps the collection gentle.
+  delay_seconds: 1.0
+
+# ---------------------------------------------------------------------------
+# Sources
+#
+# Each entry maps to a source class in src/job_tracker/sources/.
+# All three source types are public, documented, no-authentication job-board
+# APIs published by the applicant tracking systems themselves.
+# To follow another company, add its board token to the matching list.
+# ---------------------------------------------------------------------------
+sources:
+  - name: greenhouse
+    type: greenhouse
+    enabled: true
+    options:
+      # https://boards-api.greenhouse.io/v1/boards/<board_token>/jobs
+      boards:
+        - faire
+        - flipp
+        - geotab
+        - d2l
+        - stackadapt
+        - later
+
+  - name: lever
+    type: lever
+    enabled: true
+    options:
+      # https://api.lever.co/v0/postings/<company>?mode=json
+      companies:
+        - knix
+        - relay
+
+  - name: ashby
+    type: ashby
+    enabled: true
+    options:
+      # https://api.ashbyhq.com/posting-api/job-board/<org>
+      boards:
+        - wealthsimple
+        - cohere
+        - 1password
+        - loopio
+        - float
+
+# ---------------------------------------------------------------------------
+# Location filter
+#
+# A posting is kept when its location text contains one of the include terms.
+# Many boards list several cities in one string ("Toronto; New York"), so a
+# simple substring match is both sufficient and easy to explain.
+# ---------------------------------------------------------------------------
+location:
+  include_terms:
+    - toronto
+    - gta
+    - greater toronto
+    - north york
+    - scarborough
+    - etobicoke
+    - mississauga
+    - brampton
+    - markham
+    - vaughan
+    - richmond hill
+    - oakville
+    - burlington
+    - hamilton
+    - pickering
+    - ajax
+    - whitby
+    - oshawa
+    - milton
+    - newmarket
+    - waterloo
+    - kitchener
+    - ontario
+  # Checked first. Guards against look-alike places (Ontario, California) and
+  # against remote roles explicitly scoped to another country.
+  exclude_terms:
+    - "ontario, california"
+    - "ontario, ca "
+    - "remote (usa"
+    - "remote - usa"
+    - "remote, usa"
+    - "remote (united states)"
+    - "united states only"
+    - "us only"
+  # Treat Canada-wide remote postings as relevant to a Toronto job seeker.
+  # These terms only count when the location also says "remote" (or is exactly
+  # "Canada"), so "Vancouver, Canada" is not mistaken for a GTA opening.
+  allow_remote_canada: true
+  remote_canada_terms:
+    - canada
+
+# ---------------------------------------------------------------------------
+# Role filter
+#
+# A posting is kept when its title matches one of the categories below and
+# does not look like a senior or management role. Categories are checked in
+# the order written here, so the broad "Software Development" catch-all sits
+# last and only claims titles the specific categories did not.
+# ---------------------------------------------------------------------------
+roles:
+  categories:
+    QA and Automation:
+      - qa
+      - quality assurance
+      - test engineer
+      - test analyst
+      - automation engineer
+      - sdet
+    Data and BI:
+      - data analyst
+      - business intelligence
+      - bi analyst
+      - bi developer
+      - data engineer
+      - reporting analyst
+      - analytics analyst
+      - data scientist
+    Support and Operations:
+      - technical support
+      - application support
+      - it support
+      - service desk
+      - help desk
+      - helpdesk
+      - production support
+      - technical analyst
+      - systems analyst
+      - it analyst
+    Cloud and DevOps:
+      - devops
+      - cloud engineer
+      - site reliability
+      - platform engineer
+      - infrastructure engineer
+      - security engineer
+    Backend:
+      - backend
+      - back-end
+      - back end
+      - api developer
+      - python developer
+      - java developer
+      - ".net developer"
+      - node developer
+    Frontend:
+      - frontend
+      - front-end
+      - front end
+      - web developer
+      - react developer
+      - ui developer
+      - ux developer
+    Software Development:
+      - software developer
+      - software engineer
+      - software development engineer
+      - application developer
+      - mobile developer
+      - developer
+      - programmer
+      - full stack
+      - full-stack
+
+  # Titles containing any of these are dropped: they are not entry level.
+  exclude_terms:
+    - senior
+    - "sr."
+    - " sr "
+    - staff
+    - principal
+    - lead
+    - manager
+    - director
+    - head of
+    - " vp "
+    - vice president
+    - architect
+    - executive
+    - " ii "
+    - " iii "
+    - " iv "
+    - "level 3"
+
+  # Words that explicitly advertise an early-career role. They are used for
+  # tagging and for the "explicitly junior" count in the report.
+  junior_terms:
+    - junior
+    - "jr."
+    - " jr "
+    - entry level
+    - entry-level
+    - intern
+    - internship
+    - co-op
+    - coop
+    - new grad
+    - new graduate
+    - graduate
+    - associate
+    - apprentice
+    - trainee
+    - campus
+
+# ---------------------------------------------------------------------------
+# Report options
+# ---------------------------------------------------------------------------
+report:
+  # How many new postings to list in the "New this run" table.
+  max_new_rows: 25
+  # How many entries in the "top companies" / "top categories" tables.
+  top_n: 10
+  # Characters of job description kept as a short summary in data/jobs.json.
+  summary_chars: 280
