@@ -1,0 +1,311 @@
+{
+  "generated_at": "2026-08-26 04:35",
+  "totals": {
+    "active_jobs": 23,
+    "explicitly_junior": 2,
+    "added": 23,
+    "removed": 0,
+    "changed": 0,
+    "unchanged": 0
+  },
+  "by_source": [
+    {
+      "source": "greenhouse",
+      "jobs": 15
+    },
+    {
+      "source": "ashby",
+      "jobs": 7
+    },
+    {
+      "source": "lever",
+      "jobs": 1
+    }
+  ],
+  "top_companies": [
+    {
+      "company": "StackAdapt",
+      "jobs": 8
+    },
+    {
+      "company": "Cohere",
+      "jobs": 4
+    },
+    {
+      "company": "D2L",
+      "jobs": 3
+    },
+    {
+      "company": "Faire",
+      "jobs": 3
+    },
+    {
+      "company": "1Password",
+      "jobs": 2
+    },
+    {
+      "company": "Float",
+      "jobs": 1
+    },
+    {
+      "company": "Geotab",
+      "jobs": 1
+    },
+    {
+      "company": "Knix",
+      "jobs": 1
+    }
+  ],
+  "by_category": [
+    {
+      "category": "Software Development",
+      "jobs": 17
+    },
+    {
+      "category": "Backend",
+      "jobs": 2
+    },
+    {
+      "category": "Cloud and DevOps",
+      "jobs": 2
+    },
+    {
+      "category": "Data and BI",
+      "jobs": 1
+    },
+    {
+      "category": "Support and Operations",
+      "jobs": 1
+    }
+  ],
+  "top_locations": [
+    {
+      "location": "Canada",
+      "jobs": 10
+    },
+    {
+      "location": "Kitchener-Waterloo, ON",
+      "jobs": 3
+    },
+    {
+      "location": "Remote (United States | Canada)",
+      "jobs": 2
+    },
+    {
+      "location": "Toronto",
+      "jobs": 2
+    },
+    {
+      "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
+      "jobs": 1
+    },
+    {
+      "location": "Kitchener, Ontario",
+      "jobs": 1
+    },
+    {
+      "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
+      "jobs": 1
+    },
+    {
+      "location": "Oakville, Ontario - Canada",
+      "jobs": 1
+    },
+    {
+      "location": "Ontario",
+      "jobs": 1
+    },
+    {
+      "location": "Toronto, ON",
+      "jobs": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "job_id": "f52bc143dd9f",
+      "title": "Developer, Authorization",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41"
+    },
+    {
+      "job_id": "bfcdfffba9b6",
+      "title": "Developer, Rust",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538"
+    },
+    {
+      "job_id": "be49c08c0e6e",
+      "title": "Data Annotation Specialist, Software Engineering",
+      "company": "Cohere",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e"
+    },
+    {
+      "job_id": "6b312b3bf324",
+      "title": "Site Reliability Engineer, Inference Infrastructure",
+      "company": "Cohere",
+      "location": "Toronto",
+      "category": "Cloud and DevOps",
+      "url": "https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6"
+    },
+    {
+      "job_id": "ce32feb00e09",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "company": "Cohere",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254"
+    },
+    {
+      "job_id": "3c5e4e9ad3d8",
+      "title": "Software Engineer, GPU Infrastructure (HPC)",
+      "company": "Cohere",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473"
+    },
+    {
+      "job_id": "dead81904abd",
+      "title": "Salesforce Developer",
+      "company": "D2L",
+      "location": "Kitchener, Ontario",
+      "category": "Software Development",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=8095076&gh_jid=8095076"
+    },
+    {
+      "job_id": "00b2f9478d0d",
+      "title": "Software Developer",
+      "company": "D2L",
+      "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
+      "category": "Software Development",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466"
+    },
+    {
+      "job_id": "48374df767af",
+      "title": "Software Developer - New Graduate",
+      "company": "D2L",
+      "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
+      "category": "Software Development",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458"
+    },
+    {
+      "job_id": "996e5058993f",
+      "title": "IT Support Technician",
+      "company": "Faire",
+      "location": "Kitchener-Waterloo, ON",
+      "category": "Support and Operations",
+      "url": "https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002"
+    },
+    {
+      "job_id": "793292013e00",
+      "title": "Product Engineer - Brand - Fullstack, Backend or Frontend",
+      "company": "Faire",
+      "location": "Kitchener-Waterloo, ON",
+      "category": "Backend",
+      "url": "https://boards.greenhouse.io/faire/jobs/8654106002?gh_jid=8654106002"
+    },
+    {
+      "job_id": "7b2627cd85df",
+      "title": "Product Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
+      "company": "Faire",
+      "location": "Kitchener-Waterloo, ON",
+      "category": "Backend",
+      "url": "https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002"
+    },
+    {
+      "job_id": "1911923c9b23",
+      "title": "Full Stack Development (Remote - Canada)",
+      "company": "Float",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/float/7495796a-7e24-4ed7-bad6-e71265ef6f50"
+    },
+    {
+      "job_id": "adc615bc2e82",
+      "title": "Software Developer",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5255028008"
+    },
+    {
+      "job_id": "9afc8064630a",
+      "title": "Shopify Plus Developer",
+      "company": "Knix",
+      "location": "Toronto, ON",
+      "category": "Software Development",
+      "url": "https://jobs.lever.co/knix/7b205d80-741e-48f2-8349-8facdc775f7d"
+    },
+    {
+      "job_id": "bb2886d0fe5b",
+      "title": "DevOps Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Cloud and DevOps",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4312807009"
+    },
+    {
+      "job_id": "68883c585886",
+      "title": "Full Stack Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009"
+    },
+    {
+      "job_id": "5b8556fae8c8",
+      "title": "Full Stack Engineer, Total Media",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4183810009"
+    },
+    {
+      "job_id": "c9465c9e6983",
+      "title": "Integrations Developer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4357710009"
+    },
+    {
+      "job_id": "0be9a70eef40",
+      "title": "Product Data Analyst, Mobile App User Acquisition",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Data and BI",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4354888009"
+    },
+    {
+      "job_id": "0b9ed49d204c",
+      "title": "Salesforce Integration Developer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4316851009"
+    },
+    {
+      "job_id": "7316b72c4591",
+      "title": "Software Engineer, Stats & Analytics",
+      "company": "StackAdapt",
+      "location": "Ontario",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4244715009"
+    },
+    {
+      "job_id": "9f9b356fc3d7",
+      "title": "Software Engineer, User Profile",
+      "company": "StackAdapt",
+      "location": "Toronto",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4274279009"
+    }
+  ],
+  "removed_jobs": [],
+  "source_errors": []
+}
