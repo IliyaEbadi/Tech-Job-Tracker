@@ -1,0 +1,65 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "93453282-d95c-42a3-87e4-b13df7d9ec03",
+      "title": "Software Engineer Intern",
+      "department": "Engineering",
+      "employmentType": "Intern",
+      "location": "Toronto, Canada",
+      "publishedAt": "2026-08-05T17:27:16.004+00:00",
+      "isListed": true,
+      "isRemote": false,
+      "workplaceType": "Hybrid",
+      "jobUrl": "https://jobs.ashbyhq.com/exampleorg/93453282-d95c-42a3-87e4-b13df7d9ec03",
+      "applyUrl": "https://jobs.ashbyhq.com/exampleorg/93453282-d95c-42a3-87e4-b13df7d9ec03/application",
+      "descriptionPlain": "Join the platform team for a four-month internship.",
+      "descriptionHtml": "<p>Join the platform team for a four-month internship.</p>"
+    },
+    {
+      "id": "11112222-d95c-42a3-87e4-b13df7d9ec03",
+      "title": "Backend Developer",
+      "department": "Engineering",
+      "employmentType": "FullTime",
+      "location": "Remote (Canada)",
+      "publishedAt": "2026-08-06T17:27:16.004+00:00",
+      "isListed": true,
+      "isRemote": true,
+      "workplaceType": "Remote",
+      "jobUrl": "https://jobs.ashbyhq.com/exampleorg/11112222-d95c-42a3-87e4-b13df7d9ec03",
+      "applyUrl": "https://jobs.ashbyhq.com/exampleorg/11112222-d95c-42a3-87e4-b13df7d9ec03/application",
+      "descriptionPlain": "Own services written in Python.",
+      "descriptionHtml": "<p>Own services written in Python.</p>"
+    },
+    {
+      "id": "33334444-d95c-42a3-87e4-b13df7d9ec03",
+      "title": "Backend Developer",
+      "department": "Engineering",
+      "employmentType": "FullTime",
+      "location": "Vancouver, Canada",
+      "publishedAt": "2026-08-06T17:27:16.004+00:00",
+      "isListed": true,
+      "isRemote": false,
+      "workplaceType": "Onsite",
+      "jobUrl": "https://jobs.ashbyhq.com/exampleorg/33334444-d95c-42a3-87e4-b13df7d9ec03",
+      "applyUrl": "https://jobs.ashbyhq.com/exampleorg/33334444-d95c-42a3-87e4-b13df7d9ec03/application",
+      "descriptionPlain": "Own services written in Python.",
+      "descriptionHtml": "<p>Own services written in Python.</p>"
+    },
+    {
+      "id": "55556666-d95c-42a3-87e4-b13df7d9ec03",
+      "title": "Unlisted Draft Role",
+      "department": "Engineering",
+      "employmentType": "FullTime",
+      "location": "Toronto, Canada",
+      "publishedAt": "2026-08-06T17:27:16.004+00:00",
+      "isListed": false,
+      "isRemote": false,
+      "workplaceType": "Onsite",
+      "jobUrl": "https://jobs.ashbyhq.com/exampleorg/55556666-d95c-42a3-87e4-b13df7d9ec03",
+      "applyUrl": "https://jobs.ashbyhq.com/exampleorg/55556666-d95c-42a3-87e4-b13df7d9ec03/application",
+      "descriptionPlain": "Should never be collected.",
+      "descriptionHtml": "<p>Should never be collected.</p>"
+    }
+  ]
+}

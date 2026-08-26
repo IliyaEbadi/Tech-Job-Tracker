@@ -1,0 +1,53 @@
+[
+  {
+    "id": "74a4b770-6a01-46f0-bd04-a095b981c2cc",
+    "text": "Application Support Analyst",
+    "categories": {
+      "department": "Technology",
+      "location": "Toronto, ON",
+      "team": "Support",
+      "commitment": "Full-time",
+      "allLocations": ["Toronto, ON"]
+    },
+    "createdAt": 1785852800174,
+    "workplaceType": "hybrid",
+    "descriptionPlain": "Support our internal applications and users.",
+    "description": "<div><p>Support our internal applications and users.</p></div>",
+    "hostedUrl": "https://jobs.lever.co/exampleco/74a4b770-6a01-46f0-bd04-a095b981c2cc",
+    "applyUrl": "https://jobs.lever.co/exampleco/74a4b770-6a01-46f0-bd04-a095b981c2cc/apply"
+  },
+  {
+    "id": "9b1c2d3e-0000-4a5b-8c9d-111111111111",
+    "text": "Merchandising Coordinator",
+    "categories": {
+      "department": "Merchandising",
+      "location": "Toronto, ON",
+      "team": "Merchandising",
+      "commitment": "Full-time",
+      "allLocations": ["Toronto, ON"]
+    },
+    "createdAt": 1785852800174,
+    "workplaceType": "onsite",
+    "descriptionPlain": "",
+    "description": "<div><p>Plan seasonal assortments.</p></div>",
+    "hostedUrl": "https://jobs.lever.co/exampleco/9b1c2d3e-0000-4a5b-8c9d-111111111111",
+    "applyUrl": "https://jobs.lever.co/exampleco/9b1c2d3e-0000-4a5b-8c9d-111111111111/apply"
+  },
+  {
+    "id": "aa22bb33-0000-4a5b-8c9d-222222222222",
+    "text": "Data Analyst",
+    "categories": {
+      "department": "Data",
+      "location": "",
+      "team": "Analytics",
+      "commitment": "Contract",
+      "allLocations": ["Markham, ON", "Remote - Canada"]
+    },
+    "createdAt": 0,
+    "workplaceType": "remote",
+    "descriptionPlain": "Build dashboards and reports for the operations team.",
+    "description": "",
+    "hostedUrl": "https://jobs.lever.co/exampleco/aa22bb33-0000-4a5b-8c9d-222222222222",
+    "applyUrl": "https://jobs.lever.co/exampleco/aa22bb33-0000-4a5b-8c9d-222222222222/apply"
+  }
+]

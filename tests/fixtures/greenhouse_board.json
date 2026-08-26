@@ -1,0 +1,56 @@
+{
+  "_comment": "Trimmed sample of a real Greenhouse board response. Test fixture only - never used in production output.",
+  "jobs": [
+    {
+      "id": 4981486007,
+      "title": "Junior Software Developer",
+      "company_name": "Example Labs",
+      "absolute_url": "https://job-boards.greenhouse.io/examplelabs/jobs/4981486007",
+      "first_published": "2026-08-01T10:09:03-04:00",
+      "updated_at": "2026-08-02T11:00:00-04:00",
+      "location": { "name": "Toronto, ON" },
+      "content": "&lt;p&gt;Work with our&amp;nbsp;&lt;strong&gt;Python&lt;/strong&gt; platform team.&lt;/p&gt;"
+    },
+    {
+      "id": 4981486008,
+      "title": "Senior Software Developer",
+      "company_name": "Example Labs",
+      "absolute_url": "https://job-boards.greenhouse.io/examplelabs/jobs/4981486008",
+      "first_published": "2026-07-20T10:09:03-04:00",
+      "updated_at": "2026-07-21T10:09:03-04:00",
+      "location": { "name": "Toronto, ON" },
+      "content": "&lt;p&gt;Lead complex projects.&lt;/p&gt;"
+    },
+    {
+      "id": 4981486009,
+      "title": "QA Automation Engineer",
+      "company_name": "Example Labs",
+      "absolute_url": "https://job-boards.greenhouse.io/examplelabs/jobs/4981486009",
+      "first_published": "2026-08-03T09:00:00-04:00",
+      "updated_at": "2026-08-03T09:00:00-04:00",
+      "location": { "name": "New York City, NY; Mississauga, ON" },
+      "content": "&lt;p&gt;Write automated tests.&lt;/p&gt;"
+    },
+    {
+      "id": 4981486010,
+      "title": "Warehouse Associate",
+      "company_name": "Example Labs",
+      "absolute_url": "https://job-boards.greenhouse.io/examplelabs/jobs/4981486010",
+      "first_published": "2026-08-03T09:00:00-04:00",
+      "updated_at": "2026-08-03T09:00:00-04:00",
+      "location": { "name": "Toronto, ON" },
+      "content": "&lt;p&gt;Pick and pack orders.&lt;/p&gt;"
+    },
+    {
+      "id": 4981486011,
+      "title": "Software Developer",
+      "company_name": "Example Labs",
+      "absolute_url": "https://job-boards.greenhouse.io/examplelabs/jobs/4981486011",
+      "first_published": "2026-08-04T09:00:00-04:00",
+      "updated_at": "2026-08-04T09:00:00-04:00",
+      "location": { "name": "Austin, TX" },
+      "content": "&lt;p&gt;US-based role.&lt;/p&gt;"
+    }
+  ],
+  "meta": { "total": 5 }
+}
