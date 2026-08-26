@@ -1,0 +1,76 @@
+name: Daily job tracker
+
+on:
+  # Lets you trigger the tracker by hand from the Actions tab.
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions cron is always UTC. 11:15 UTC is 07:15 in Toronto during
+    # daylight time and 06:15 in winter. Scheduled runs are best-effort and
+    # can be delayed by several minutes when GitHub is busy.
+    - cron: "15 11 * * *"
+
+# The workflow only needs to push the regenerated data and report.
+permissions:
+  contents: write
+
+# Never let a manual run and the nightly run fight over the same branch.
+concurrency:
+  group: daily-job-tracker
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Collect postings and update artifacts
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pyproject.toml
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: Lint
+        run: |
+          ruff check .
+          ruff format --check .
+
+      - name: Tests
+        run: pytest
+
+      - name: Run the tracker
+        run: python -m job_tracker
+
+      - name: Commit changed artifacts
+        run: |
+          if [ -z "$(git status --porcelain data reports)" ]; then
+            echo "No data or report changes - nothing to commit."
+            exit 0
+          fi
+
+          active=$(python -c "import json; print(json.load(open('reports/summary.json'))['totals']['active_jobs'])")
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          git commit -m "chore(data): refresh job dataset (${active} active postings)"
+          git push
+
+      - name: Job summary
+        if: always()
+        run: |
+          echo "### Toronto tech job tracker" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f reports/summary.json ]; then
+            python -c "import json; t = json.load(open('reports/summary.json'))['totals']; print('\n'.join(f'- **{k.replace(chr(95), chr(32))}**: {v}' for k, v in t.items()))" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "- No summary was produced." >> "$GITHUB_STEP_SUMMARY"
+          fi
