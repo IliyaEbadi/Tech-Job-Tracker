@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 23,
+  "job_count": 24,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -88,6 +88,24 @@
       "first_seen": "2026-08-26",
       "tags": [
         "junior",
+        "remote",
+        "software engineer"
+      ],
+      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+    },
+    {
+      "job_id": "71cd9d2389fc",
+      "title": "Software Engineer, Adoption",
+      "company": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-06-19",
+      "first_seen": "2026-08-28",
+      "tags": [
         "remote",
         "software engineer"
       ],

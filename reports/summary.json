@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-27 21:01",
+  "generated_at": "2026-08-28 21:22",
   "totals": {
-    "active_jobs": 23,
+    "active_jobs": 24,
     "explicitly_junior": 2,
     "added": 1,
-    "removed": 1,
+    "removed": 0,
     "changed": 0,
-    "unchanged": 22
+    "unchanged": 23
   },
   "by_source": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "source": "ashby",
-      "jobs": 7
+      "jobs": 8
     },
     {
       "source": "lever",
@@ -29,7 +29,7 @@
     },
     {
       "company": "Cohere",
-      "jobs": 4
+      "jobs": 5
     },
     {
       "company": "D2L",
@@ -59,7 +59,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 17
+      "jobs": 18
     },
     {
       "category": "Backend",
@@ -88,11 +88,11 @@
       "jobs": 3
     },
     {
-      "location": "Remote (United States | Canada)",
-      "jobs": 2
+      "location": "Toronto",
+      "jobs": 3
     },
     {
-      "location": "Toronto",
+      "location": "Remote (United States | Canada)",
       "jobs": 2
     },
     {
@@ -122,21 +122,14 @@
   ],
   "new_jobs": [
     {
-      "job_id": "dec0417cf763",
-      "title": "DevOps Engineer (Kubernetes team)",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "category": "Cloud and DevOps",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4312807009"
+      "job_id": "71cd9d2389fc",
+      "title": "Software Engineer, Adoption",
+      "company": "Cohere",
+      "location": "Toronto",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff"
     }
   ],
-  "removed_jobs": [
-    {
-      "job_id": "bb2886d0fe5b",
-      "title": "DevOps Engineer",
-      "company": "StackAdapt",
-      "location": "Canada"
-    }
-  ],
+  "removed_jobs": [],
   "source_errors": []
 }

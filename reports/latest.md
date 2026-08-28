@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-08-27 21:01 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-08-28 21:22 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,24 +9,22 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 23 |
+| Active postings tracked | 24 |
 | New this run | 1 |
-| Removed / expired this run | 1 |
+| Removed / expired this run | 0 |
 | Updated postings | 0 |
-| Unchanged postings | 22 |
+| Unchanged postings | 23 |
 | Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [DevOps Engineer (Kubernetes team)](https://job-boards.greenhouse.io/stackadapt/jobs/4312807009) | StackAdapt | Canada | Cloud and DevOps | 2026-07-22 |
+| [Software Engineer, Adoption](https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff) | Cohere | Toronto | Software Development | 2026-06-19 |
 
 ## Removed or expired since the last run
 
-| Role | Company | Location |
-|---|---|---|
-| DevOps Engineer | StackAdapt | Canada |
+_None._
 
 ## Updated postings
 
@@ -37,7 +35,7 @@ _None._
 | Company | Open tracked roles |
 |---|---|
 | StackAdapt | 8 |
-| Cohere | 4 |
+| Cohere | 5 |
 | D2L | 3 |
 | Faire | 3 |
 | 1Password | 2 |
@@ -49,7 +47,7 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 17 |
+| Software Development | 18 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
 | Data and BI | 1 |
@@ -61,8 +59,8 @@ _None._
 |---|---|
 | Canada | 10 |
 | Kitchener-Waterloo, ON | 3 |
+| Toronto | 3 |
 | Remote (United States \| Canada) | 2 |
-| Toronto | 2 |
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
 | Kitchener, Ontario | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
@@ -75,7 +73,7 @@ _None._
 | Source | Postings kept |
 |---|---|
 | greenhouse | 15 |
-| ashby | 7 |
+| ashby | 8 |
 | lever | 1 |
 
 ---
