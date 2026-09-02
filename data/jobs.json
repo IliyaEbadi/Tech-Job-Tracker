@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 24,
+  "job_count": 23,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -107,24 +107,6 @@
       "first_seen": "2026-08-28",
       "tags": [
         "remote",
-        "software engineer"
-      ],
-      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
-    },
-    {
-      "job_id": "3c5e4e9ad3d8",
-      "title": "Software Engineer, GPU Infrastructure (HPC)",
-      "company": "Cohere",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473",
-      "source": "ashby",
-      "category": "Software Development",
-      "employment_type": "Full-time",
-      "workplace_type": "Hybrid",
-      "posted_at": "2026-01-15",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "hybrid",
         "software engineer"
       ],
       "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."

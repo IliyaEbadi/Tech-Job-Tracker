@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-08-28 21:22 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-02 15:06 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,22 +9,22 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 24 |
-| New this run | 1 |
-| Removed / expired this run | 0 |
+| Active postings tracked | 23 |
+| New this run | 0 |
+| Removed / expired this run | 1 |
 | Updated postings | 0 |
 | Unchanged postings | 23 |
 | Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Software Engineer, Adoption](https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff) | Cohere | Toronto | Software Development | 2026-06-19 |
+_None._
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| Software Engineer, GPU Infrastructure (HPC) | Cohere | Canada |
 
 ## Updated postings
 
@@ -35,7 +35,7 @@ _None._
 | Company | Open tracked roles |
 |---|---|
 | StackAdapt | 8 |
-| Cohere | 5 |
+| Cohere | 4 |
 | D2L | 3 |
 | Faire | 3 |
 | 1Password | 2 |
@@ -47,7 +47,7 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 18 |
+| Software Development | 17 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
 | Data and BI | 1 |
@@ -57,7 +57,7 @@ _None._
 
 | Location | Postings |
 |---|---|
-| Canada | 10 |
+| Canada | 9 |
 | Kitchener-Waterloo, ON | 3 |
 | Toronto | 3 |
 | Remote (United States \| Canada) | 2 |
@@ -73,7 +73,7 @@ _None._
 | Source | Postings kept |
 |---|---|
 | greenhouse | 15 |
-| ashby | 8 |
+| ashby | 7 |
 | lever | 1 |
 
 ---
