@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-02 15:06 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-03 14:59 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,11 +9,11 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 23 |
+| Active postings tracked | 21 |
 | New this run | 0 |
-| Removed / expired this run | 1 |
+| Removed / expired this run | 2 |
 | Updated postings | 0 |
-| Unchanged postings | 23 |
+| Unchanged postings | 21 |
 | Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
@@ -24,7 +24,8 @@ _None._
 
 | Role | Company | Location |
 |---|---|---|
-| Software Engineer, GPU Infrastructure (HPC) | Cohere | Canada |
+| Full Stack Engineer, Total Media | StackAdapt | Canada |
+| Salesforce Integration Developer | StackAdapt | Canada |
 
 ## Updated postings
 
@@ -34,7 +35,7 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
-| StackAdapt | 8 |
+| StackAdapt | 6 |
 | Cohere | 4 |
 | D2L | 3 |
 | Faire | 3 |
@@ -47,7 +48,7 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 17 |
+| Software Development | 15 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
 | Data and BI | 1 |
@@ -57,7 +58,7 @@ _None._
 
 | Location | Postings |
 |---|---|
-| Canada | 9 |
+| Canada | 7 |
 | Kitchener-Waterloo, ON | 3 |
 | Toronto | 3 |
 | Remote (United States \| Canada) | 2 |
@@ -72,7 +73,7 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| greenhouse | 15 |
+| greenhouse | 13 |
 | ashby | 7 |
 | lever | 1 |
 

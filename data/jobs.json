@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 23,
+  "job_count": 21,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -308,23 +308,6 @@
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },
     {
-      "job_id": "5b8556fae8c8",
-      "title": "Full Stack Engineer, Total Media",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4183810009",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-03-16",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "full stack"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
-    },
-    {
       "job_id": "c9465c9e6983",
       "title": "Integrations Developer",
       "company": "StackAdapt",
@@ -355,23 +338,6 @@
       "first_seen": "2026-08-26",
       "tags": [
         "data analyst"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
-    },
-    {
-      "job_id": "0b9ed49d204c",
-      "title": "Salesforce Integration Developer",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4316851009",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-07-20",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "developer"
       ],
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },

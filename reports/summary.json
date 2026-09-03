@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-02 15:06",
+  "generated_at": "2026-09-03 14:59",
   "totals": {
-    "active_jobs": 23,
+    "active_jobs": 21,
     "explicitly_junior": 2,
     "added": 0,
-    "removed": 1,
+    "removed": 2,
     "changed": 0,
-    "unchanged": 23
+    "unchanged": 21
   },
   "by_source": [
     {
       "source": "greenhouse",
-      "jobs": 15
+      "jobs": 13
     },
     {
       "source": "ashby",
@@ -25,7 +25,7 @@
   "top_companies": [
     {
       "company": "StackAdapt",
-      "jobs": 8
+      "jobs": 6
     },
     {
       "company": "Cohere",
@@ -59,7 +59,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 17
+      "jobs": 15
     },
     {
       "category": "Backend",
@@ -81,7 +81,7 @@
   "top_locations": [
     {
       "location": "Canada",
-      "jobs": 9
+      "jobs": 7
     },
     {
       "location": "Kitchener-Waterloo, ON",
@@ -123,9 +123,15 @@
   "new_jobs": [],
   "removed_jobs": [
     {
-      "job_id": "3c5e4e9ad3d8",
-      "title": "Software Engineer, GPU Infrastructure (HPC)",
-      "company": "Cohere",
+      "job_id": "5b8556fae8c8",
+      "title": "Full Stack Engineer, Total Media",
+      "company": "StackAdapt",
+      "location": "Canada"
+    },
+    {
+      "job_id": "0b9ed49d204c",
+      "title": "Salesforce Integration Developer",
+      "company": "StackAdapt",
       "location": "Canada"
     }
   ],
