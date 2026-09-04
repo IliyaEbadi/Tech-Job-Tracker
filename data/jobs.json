@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 21,
+  "job_count": 23,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -202,8 +202,8 @@
       "summary": "About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're..."
     },
     {
-      "job_id": "7b2627cd85df",
-      "title": "Product Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
+      "job_id": "552e5a77709b",
+      "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
       "company": "Faire",
       "location": "Kitchener-Waterloo, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002",
@@ -212,10 +212,11 @@
       "employment_type": "",
       "workplace_type": "",
       "posted_at": "2026-06-22",
-      "first_seen": "2026-08-26",
+      "first_seen": "2026-09-04",
       "tags": [
         "backend",
-        "frontend"
+        "frontend",
+        "software engineer"
       ],
       "summary": "About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're..."
     },
@@ -252,6 +253,40 @@
       "tags": [
         "developer",
         "software developer"
+      ],
+      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
+    },
+    {
+      "job_id": "564b8494e285",
+      "title": "Technical Support Specialist - Bilingual Portuguese",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5407740008",
+      "source": "greenhouse",
+      "category": "Support and Operations",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-09-03",
+      "first_seen": "2026-09-04",
+      "tags": [
+        "technical support"
+      ],
+      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
+    },
+    {
+      "job_id": "38350bf10130",
+      "title": "Technical Support Specialist - Bilingual Spanish",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5407730008",
+      "source": "greenhouse",
+      "category": "Support and Operations",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-09-03",
+      "first_seen": "2026-09-04",
+      "tags": [
+        "technical support"
       ],
       "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
     },
