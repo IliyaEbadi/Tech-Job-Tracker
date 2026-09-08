@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-04 14:57 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-08 15:06 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,26 +9,22 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 23 |
-| New this run | 3 |
+| Active postings tracked | 22 |
+| New this run | 0 |
 | Removed / expired this run | 1 |
 | Updated postings | 0 |
-| Unchanged postings | 20 |
+| Unchanged postings | 22 |
 | Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend](https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002) | Faire | Kitchener-Waterloo, ON | Backend | 2026-06-22 |
-| [Technical Support Specialist - Bilingual Portuguese](https://job-boards.greenhouse.io/geotab/jobs/5407740008) | Geotab | Oakville, Ontario - Canada | Support and Operations | 2026-09-03 |
-| [Technical Support Specialist - Bilingual Spanish](https://job-boards.greenhouse.io/geotab/jobs/5407730008) | Geotab | Oakville, Ontario - Canada | Support and Operations | 2026-09-03 |
+_None._
 
 ## Removed or expired since the last run
 
 | Role | Company | Location |
 |---|---|---|
-| Product Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend | Faire | Kitchener-Waterloo, ON |
+| Shopify Plus Developer | Knix | Toronto, ON |
 
 ## Updated postings
 
@@ -45,13 +41,12 @@ _None._
 | Geotab | 3 |
 | 1Password | 2 |
 | Float | 1 |
-| Knix | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 15 |
+| Software Development | 14 |
 | Support and Operations | 3 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
@@ -70,7 +65,6 @@ _None._
 | Kitchener, Ontario | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Ontario | 1 |
-| Toronto, ON | 1 |
 
 ## Sources
 
@@ -78,7 +72,6 @@ _None._
 |---|---|
 | greenhouse | 15 |
 | ashby | 7 |
-| lever | 1 |
 
 ---
 

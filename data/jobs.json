@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 23,
+  "job_count": 22,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -289,24 +289,6 @@
         "technical support"
       ],
       "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
-    },
-    {
-      "job_id": "9afc8064630a",
-      "title": "Shopify Plus Developer",
-      "company": "Knix",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/knix/7b205d80-741e-48f2-8349-8facdc775f7d",
-      "source": "lever",
-      "category": "Software Development",
-      "employment_type": "Full Time Permanent - Team Member (Hq)",
-      "workplace_type": "Hybrid",
-      "posted_at": "2026-08-21",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "developer",
-        "hybrid"
-      ],
-      "summary": "Knix is an award-winning intimate apparel and activewear brand that is re-inventing intimates for real life. Through our innovative products and our engaged community, we are empowering people everywhere to be unapologetically free. Launched in 2013, we are one of the..."
     },
     {
       "job_id": "dec0417cf763",
