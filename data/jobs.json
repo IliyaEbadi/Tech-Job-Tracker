@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 22,
+  "job_count": 25,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -16,6 +16,25 @@
       "first_seen": "2026-08-26",
       "tags": [
         "developer",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "bd6048f03174",
+      "title": "Developer, Full Stack/iOS",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-09-08",
+      "first_seen": "2026-09-09",
+      "tags": [
+        "developer",
+        "full stack",
         "remote"
       ],
       "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
@@ -163,6 +182,43 @@
         "developer",
         "junior",
         "software developer"
+      ],
+      "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
+    },
+    {
+      "job_id": "452fdfb60fed",
+      "title": "Software Developer - Winter 2027 Co-op",
+      "company": "D2L",
+      "location": "Kitchener, Ontario",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-09-09",
+      "first_seen": "2026-09-09",
+      "tags": [
+        "developer",
+        "junior",
+        "software developer"
+      ],
+      "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
+    },
+    {
+      "job_id": "374dcd16d081",
+      "title": "Test Developer- Winter 2027 Co-op",
+      "company": "D2L",
+      "location": "Kitchener, ON",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=8174477&gh_jid=8174477",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-09-09",
+      "first_seen": "2026-09-09",
+      "tags": [
+        "developer",
+        "junior"
       ],
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
     },

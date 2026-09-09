@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-08 15:06",
+  "generated_at": "2026-09-09 15:06",
   "totals": {
-    "active_jobs": 22,
-    "explicitly_junior": 2,
-    "added": 0,
-    "removed": 1,
+    "active_jobs": 25,
+    "explicitly_junior": 4,
+    "added": 3,
+    "removed": 0,
     "changed": 0,
     "unchanged": 22
   },
   "by_source": [
     {
       "source": "greenhouse",
-      "jobs": 15
+      "jobs": 17
     },
     {
       "source": "ashby",
-      "jobs": 7
+      "jobs": 8
     }
   ],
   "top_companies": [
@@ -24,11 +24,15 @@
       "jobs": 6
     },
     {
+      "company": "D2L",
+      "jobs": 5
+    },
+    {
       "company": "Cohere",
       "jobs": 4
     },
     {
-      "company": "D2L",
+      "company": "1Password",
       "jobs": 3
     },
     {
@@ -40,10 +44,6 @@
       "jobs": 3
     },
     {
-      "company": "1Password",
-      "jobs": 2
-    },
-    {
       "company": "Float",
       "jobs": 1
     }
@@ -51,7 +51,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 14
+      "jobs": 17
     },
     {
       "category": "Support and Operations",
@@ -84,19 +84,23 @@
       "jobs": 3
     },
     {
+      "location": "Remote (United States | Canada)",
+      "jobs": 3
+    },
+    {
       "location": "Toronto",
       "jobs": 3
     },
     {
-      "location": "Remote (United States | Canada)",
+      "location": "Kitchener, Ontario",
       "jobs": 2
     },
     {
-      "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
+      "location": "Kitchener, ON",
       "jobs": 1
     },
     {
-      "location": "Kitchener, Ontario",
+      "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
       "jobs": 1
     },
     {
@@ -108,14 +112,32 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [],
-  "removed_jobs": [
+  "new_jobs": [
     {
-      "job_id": "9afc8064630a",
-      "title": "Shopify Plus Developer",
-      "company": "Knix",
-      "location": "Toronto, ON"
+      "job_id": "bd6048f03174",
+      "title": "Developer, Full Stack/iOS",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45"
+    },
+    {
+      "job_id": "452fdfb60fed",
+      "title": "Software Developer - Winter 2027 Co-op",
+      "company": "D2L",
+      "location": "Kitchener, Ontario",
+      "category": "Software Development",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229"
+    },
+    {
+      "job_id": "374dcd16d081",
+      "title": "Test Developer- Winter 2027 Co-op",
+      "company": "D2L",
+      "location": "Kitchener, ON",
+      "category": "Software Development",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=8174477&gh_jid=8174477"
     }
   ],
+  "removed_jobs": [],
   "source_errors": []
 }
