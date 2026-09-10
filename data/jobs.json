@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 25,
+  "job_count": 26,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -201,6 +201,25 @@
         "developer",
         "junior",
         "software developer"
+      ],
+      "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
+    },
+    {
+      "job_id": "3756c9c61848",
+      "title": "Software Test Developer - New Graduate",
+      "company": "D2L",
+      "location": "Kitchener, Remote Canada",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "Remote",
+      "posted_at": "2024-10-02",
+      "first_seen": "2026-09-10",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
       ],
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
     },

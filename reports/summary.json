@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-09 15:06",
+  "generated_at": "2026-09-10 14:59",
   "totals": {
-    "active_jobs": 25,
-    "explicitly_junior": 4,
-    "added": 3,
+    "active_jobs": 26,
+    "explicitly_junior": 5,
+    "added": 1,
     "removed": 0,
     "changed": 0,
-    "unchanged": 22
+    "unchanged": 25
   },
   "by_source": [
     {
       "source": "greenhouse",
-      "jobs": 17
+      "jobs": 18
     },
     {
       "source": "ashby",
@@ -20,12 +20,12 @@
   ],
   "top_companies": [
     {
-      "company": "StackAdapt",
+      "company": "D2L",
       "jobs": 6
     },
     {
-      "company": "D2L",
-      "jobs": 5
+      "company": "StackAdapt",
+      "jobs": 6
     },
     {
       "company": "Cohere",
@@ -51,7 +51,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 17
+      "jobs": 18
     },
     {
       "category": "Support and Operations",
@@ -104,38 +104,22 @@
       "jobs": 1
     },
     {
-      "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
+      "location": "Kitchener, Remote Canada",
       "jobs": 1
     },
     {
-      "location": "Ontario",
+      "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
       "jobs": 1
     }
   ],
   "new_jobs": [
     {
-      "job_id": "bd6048f03174",
-      "title": "Developer, Full Stack/iOS",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45"
-    },
-    {
-      "job_id": "452fdfb60fed",
-      "title": "Software Developer - Winter 2027 Co-op",
+      "job_id": "3756c9c61848",
+      "title": "Software Test Developer - New Graduate",
       "company": "D2L",
-      "location": "Kitchener, Ontario",
+      "location": "Kitchener, Remote Canada",
       "category": "Software Development",
-      "url": "https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229"
-    },
-    {
-      "job_id": "374dcd16d081",
-      "title": "Test Developer- Winter 2027 Co-op",
-      "company": "D2L",
-      "location": "Kitchener, ON",
-      "category": "Software Development",
-      "url": "https://www.d2l.com/careers/jobs/?job_id=8174477&gh_jid=8174477"
+      "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078"
     }
   ],
   "removed_jobs": [],

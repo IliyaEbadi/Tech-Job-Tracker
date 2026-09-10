@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-09 15:06 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-10 14:59 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,20 +9,18 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 25 |
-| New this run | 3 |
+| Active postings tracked | 26 |
+| New this run | 1 |
 | Removed / expired this run | 0 |
 | Updated postings | 0 |
-| Unchanged postings | 22 |
-| Explicitly junior / intern / new-grad titles | 4 |
+| Unchanged postings | 25 |
+| Explicitly junior / intern / new-grad titles | 5 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Developer, Full Stack/iOS](https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45) | 1Password | Remote (United States \| Canada) | Software Development | 2026-09-08 |
-| [Software Developer - Winter 2027 Co-op](https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229) | D2L | Kitchener, Ontario | Software Development | 2026-09-09 |
-| [Test Developer- Winter 2027 Co-op](https://www.d2l.com/careers/jobs/?job_id=8174477&gh_jid=8174477) | D2L | Kitchener, ON | Software Development | 2026-09-09 |
+| [Software Test Developer - New Graduate](https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078) | D2L | Kitchener, Remote Canada | Software Development | 2024-10-02 |
 
 ## Removed or expired since the last run
 
@@ -36,8 +34,8 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
+| D2L | 6 |
 | StackAdapt | 6 |
-| D2L | 5 |
 | Cohere | 4 |
 | 1Password | 3 |
 | Faire | 3 |
@@ -48,7 +46,7 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 17 |
+| Software Development | 18 |
 | Support and Operations | 3 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
@@ -66,14 +64,14 @@ _None._
 | Kitchener, Ontario | 2 |
 | Kitchener, ON | 1 |
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
+| Kitchener, Remote Canada | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
-| Ontario | 1 |
 
 ## Sources
 
 | Source | Postings kept |
 |---|---|
-| greenhouse | 17 |
+| greenhouse | 18 |
 | ashby | 8 |
 
 ---
