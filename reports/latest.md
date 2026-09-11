@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-10 14:59 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-11 15:01 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,18 +9,18 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 26 |
+| Active postings tracked | 27 |
 | New this run | 1 |
 | Removed / expired this run | 0 |
 | Updated postings | 0 |
-| Unchanged postings | 25 |
+| Unchanged postings | 26 |
 | Explicitly junior / intern / new-grad titles | 5 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Software Test Developer - New Graduate](https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078) | D2L | Kitchener, Remote Canada | Software Development | 2024-10-02 |
+| [Product Security Engineer, North Security](https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2) | Cohere | Canada | Cloud and DevOps | 2026-09-11 |
 
 ## Removed or expired since the last run
 
@@ -36,7 +36,7 @@ _None._
 |---|---|
 | D2L | 6 |
 | StackAdapt | 6 |
-| Cohere | 4 |
+| Cohere | 5 |
 | 1Password | 3 |
 | Faire | 3 |
 | Geotab | 3 |
@@ -47,16 +47,16 @@ _None._
 | Category | Postings |
 |---|---|
 | Software Development | 18 |
+| Cloud and DevOps | 3 |
 | Support and Operations | 3 |
 | Backend | 2 |
-| Cloud and DevOps | 2 |
 | Data and BI | 1 |
 
 ## Top locations
 
 | Location | Postings |
 |---|---|
-| Canada | 7 |
+| Canada | 8 |
 | Kitchener-Waterloo, ON | 3 |
 | Oakville, Ontario - Canada | 3 |
 | Remote (United States \| Canada) | 3 |
@@ -72,7 +72,7 @@ _None._
 | Source | Postings kept |
 |---|---|
 | greenhouse | 18 |
-| ashby | 8 |
+| ashby | 9 |
 
 ---
 
