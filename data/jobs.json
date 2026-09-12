@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 27,
+  "job_count": 28,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -51,6 +51,24 @@
       "workplace_type": "Remote",
       "posted_at": "2026-08-14",
       "first_seen": "2026-08-26",
+      "tags": [
+        "developer",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "62bcfe6b26a3",
+      "title": "Developer, Web Extension",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-09-11",
+      "first_seen": "2026-09-12",
       "tags": [
         "developer",
         "remote"
@@ -336,12 +354,12 @@
       "title": "Software Developer",
       "company": "Geotab",
       "location": "Oakville, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5255028008",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5363388008",
       "source": "greenhouse",
       "category": "Software Development",
       "employment_type": "",
       "workplace_type": "",
-      "posted_at": "2026-06-29",
+      "posted_at": "2026-07-31",
       "first_seen": "2026-08-26",
       "tags": [
         "developer",
