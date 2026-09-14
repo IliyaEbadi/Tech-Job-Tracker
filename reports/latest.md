@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-12 14:06 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-14 16:57 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -11,26 +11,26 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 |---|---|
 | Active postings tracked | 28 |
 | New this run | 1 |
-| Removed / expired this run | 0 |
-| Updated postings | 1 |
-| Unchanged postings | 26 |
+| Removed / expired this run | 1 |
+| Updated postings | 0 |
+| Unchanged postings | 27 |
 | Explicitly junior / intern / new-grad titles | 5 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Developer, Web Extension](https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241) | 1Password | Remote (United States \| Canada) | Software Development | 2026-09-11 |
+| [Developer, Enterprise Tenants and Policies](https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6) | 1Password | Remote (United States \| Canada) | Software Development | 2026-09-14 |
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| Data Annotation Specialist, Software Engineering | Cohere | Canada |
 
 ## Updated postings
 
-| Role | Company | What changed |
-|---|---|---|
-| [Software Developer](https://job-boards.greenhouse.io/geotab/jobs/5363388008) | Geotab | url: https://job-boards.greenhouse.io/geotab/jobs/5255028008 -> https://job-boards.greenhouse.io/geotab/jobs/5363388008 |
+_None._
 
 ## Top companies (top 10)
 
@@ -38,8 +38,8 @@ _None._
 |---|---|
 | D2L | 6 |
 | StackAdapt | 6 |
-| Cohere | 5 |
-| 1Password | 4 |
+| 1Password | 5 |
+| Cohere | 4 |
 | Faire | 3 |
 | Geotab | 3 |
 | Float | 1 |
@@ -58,8 +58,8 @@ _None._
 
 | Location | Postings |
 |---|---|
-| Canada | 8 |
-| Remote (United States \| Canada) | 4 |
+| Canada | 7 |
+| Remote (United States \| Canada) | 5 |
 | Kitchener-Waterloo, ON | 3 |
 | Oakville, Ontario - Canada | 3 |
 | Toronto | 3 |

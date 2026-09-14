@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-12 14:06",
+  "generated_at": "2026-09-14 16:57",
   "totals": {
     "active_jobs": 28,
     "explicitly_junior": 5,
     "added": 1,
-    "removed": 0,
-    "changed": 1,
-    "unchanged": 26
+    "removed": 1,
+    "changed": 0,
+    "unchanged": 27
   },
   "by_source": [
     {
@@ -28,11 +28,11 @@
       "jobs": 6
     },
     {
-      "company": "Cohere",
+      "company": "1Password",
       "jobs": 5
     },
     {
-      "company": "1Password",
+      "company": "Cohere",
       "jobs": 4
     },
     {
@@ -73,11 +73,11 @@
   "top_locations": [
     {
       "location": "Canada",
-      "jobs": 8
+      "jobs": 7
     },
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 4
+      "jobs": 5
     },
     {
       "location": "Kitchener-Waterloo, ON",
@@ -114,14 +114,21 @@
   ],
   "new_jobs": [
     {
-      "job_id": "62bcfe6b26a3",
-      "title": "Developer, Web Extension",
+      "job_id": "e9621a13eef3",
+      "title": "Developer, Enterprise Tenants and Policies",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
       "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241"
+      "url": "https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6"
     }
   ],
-  "removed_jobs": [],
+  "removed_jobs": [
+    {
+      "job_id": "be49c08c0e6e",
+      "title": "Data Annotation Specialist, Software Engineering",
+      "company": "Cohere",
+      "location": "Canada"
+    }
+  ],
   "source_errors": []
 }
