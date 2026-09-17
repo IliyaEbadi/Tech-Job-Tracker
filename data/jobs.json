@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 28,
+  "job_count": 26,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -222,25 +222,6 @@
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
     },
     {
-      "job_id": "452fdfb60fed",
-      "title": "Software Developer - Winter 2027 Co-op",
-      "company": "D2L",
-      "location": "Kitchener, Ontario",
-      "url": "https://www.d2l.com/careers/jobs/?job_id=8174229&gh_jid=8174229",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-09-09",
-      "first_seen": "2026-09-09",
-      "tags": [
-        "developer",
-        "junior",
-        "software developer"
-      ],
-      "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
-    },
-    {
       "job_id": "3756c9c61848",
       "title": "Software Test Developer - New Graduate",
       "company": "D2L",
@@ -256,24 +237,6 @@
         "developer",
         "junior",
         "remote"
-      ],
-      "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
-    },
-    {
-      "job_id": "374dcd16d081",
-      "title": "Test Developer- Winter 2027 Co-op",
-      "company": "D2L",
-      "location": "Kitchener, ON",
-      "url": "https://www.d2l.com/careers/jobs/?job_id=8174477&gh_jid=8174477",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-09-09",
-      "first_seen": "2026-09-09",
-      "tags": [
-        "developer",
-        "junior"
       ],
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
     },
