@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 26,
+  "job_count": 27,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -94,6 +94,24 @@
       "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
+      "job_id": "a4664dacb534",
+      "title": "IT Support Specialist",
+      "company": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/7815bf85-11ae-4cf8-883f-13f6ab09d264",
+      "source": "ashby",
+      "category": "Support and Operations",
+      "employment_type": "Full-time",
+      "workplace_type": "On-site",
+      "posted_at": "2026-09-18",
+      "first_seen": "2026-09-18",
+      "tags": [
+        "it support",
+        "on-site"
+      ],
+      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+    },
+    {
       "job_id": "64bf67d9cdf9",
       "title": "Product Security Engineer, North Security",
       "company": "Cohere",
@@ -160,6 +178,24 @@
       "workplace_type": "Remote",
       "posted_at": "2026-06-19",
       "first_seen": "2026-08-28",
+      "tags": [
+        "remote",
+        "software engineer"
+      ],
+      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+    },
+    {
+      "job_id": "4663d19eb844",
+      "title": "Software Engineer, Security",
+      "company": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-09-17",
+      "first_seen": "2026-09-18",
       "tags": [
         "remote",
         "software engineer"
@@ -239,23 +275,6 @@
         "remote"
       ],
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
-    },
-    {
-      "job_id": "996e5058993f",
-      "title": "IT Support Technician",
-      "company": "Faire",
-      "location": "Kitchener-Waterloo, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8658909002?gh_jid=8658909002",
-      "source": "greenhouse",
-      "category": "Support and Operations",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-07-30",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "it support"
-      ],
-      "summary": "About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're..."
     },
     {
       "job_id": "793292013e00",

@@ -1,24 +1,28 @@
 {
-  "generated_at": "2026-09-17 15:32",
+  "generated_at": "2026-09-18 14:59",
   "totals": {
-    "active_jobs": 26,
+    "active_jobs": 27,
     "explicitly_junior": 3,
-    "added": 0,
-    "removed": 2,
+    "added": 2,
+    "removed": 1,
     "changed": 0,
-    "unchanged": 26
+    "unchanged": 25
   },
   "by_source": [
     {
       "source": "greenhouse",
-      "jobs": 16
+      "jobs": 15
     },
     {
       "source": "ashby",
-      "jobs": 10
+      "jobs": 12
     }
   ],
   "top_companies": [
+    {
+      "company": "Cohere",
+      "jobs": 6
+    },
     {
       "company": "StackAdapt",
       "jobs": 6
@@ -28,20 +32,16 @@
       "jobs": 5
     },
     {
-      "company": "Cohere",
-      "jobs": 4
-    },
-    {
       "company": "D2L",
       "jobs": 4
     },
     {
-      "company": "Faire",
+      "company": "Geotab",
       "jobs": 3
     },
     {
-      "company": "Geotab",
-      "jobs": 3
+      "company": "Faire",
+      "jobs": 2
     },
     {
       "company": "Float",
@@ -51,7 +51,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 17
+      "jobs": 18
     },
     {
       "category": "Cloud and DevOps",
@@ -80,16 +80,16 @@
       "jobs": 5
     },
     {
-      "location": "Kitchener-Waterloo, ON",
-      "jobs": 3
+      "location": "Toronto",
+      "jobs": 5
     },
     {
       "location": "Oakville, Ontario - Canada",
       "jobs": 3
     },
     {
-      "location": "Toronto",
-      "jobs": 3
+      "location": "Kitchener-Waterloo, ON",
+      "jobs": 2
     },
     {
       "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
@@ -112,19 +112,30 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [],
-  "removed_jobs": [
+  "new_jobs": [
     {
-      "job_id": "452fdfb60fed",
-      "title": "Software Developer - Winter 2027 Co-op",
-      "company": "D2L",
-      "location": "Kitchener, Ontario"
+      "job_id": "a4664dacb534",
+      "title": "IT Support Specialist",
+      "company": "Cohere",
+      "location": "Toronto",
+      "category": "Support and Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/7815bf85-11ae-4cf8-883f-13f6ab09d264"
     },
     {
-      "job_id": "374dcd16d081",
-      "title": "Test Developer- Winter 2027 Co-op",
-      "company": "D2L",
-      "location": "Kitchener, ON"
+      "job_id": "4663d19eb844",
+      "title": "Software Engineer, Security",
+      "company": "Cohere",
+      "location": "Toronto",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0"
+    }
+  ],
+  "removed_jobs": [
+    {
+      "job_id": "996e5058993f",
+      "title": "IT Support Technician",
+      "company": "Faire",
+      "location": "Kitchener-Waterloo, ON"
     }
   ],
   "source_errors": []

@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-17 15:32 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-18 14:59 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,23 +9,25 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 26 |
-| New this run | 0 |
-| Removed / expired this run | 2 |
+| Active postings tracked | 27 |
+| New this run | 2 |
+| Removed / expired this run | 1 |
 | Updated postings | 0 |
-| Unchanged postings | 26 |
+| Unchanged postings | 25 |
 | Explicitly junior / intern / new-grad titles | 3 |
 
 ## New this run
 
-_None._
+| Role | Company | Location | Category | Posted |
+|---|---|---|---|---|
+| [IT Support Specialist](https://jobs.ashbyhq.com/cohere/7815bf85-11ae-4cf8-883f-13f6ab09d264) | Cohere | Toronto | Support and Operations | 2026-09-18 |
+| [Software Engineer, Security](https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0) | Cohere | Toronto | Software Development | 2026-09-17 |
 
 ## Removed or expired since the last run
 
 | Role | Company | Location |
 |---|---|---|
-| Software Developer - Winter 2027 Co-op | D2L | Kitchener, Ontario |
-| Test Developer- Winter 2027 Co-op | D2L | Kitchener, ON |
+| IT Support Technician | Faire | Kitchener-Waterloo, ON |
 
 ## Updated postings
 
@@ -35,19 +37,19 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
+| Cohere | 6 |
 | StackAdapt | 6 |
 | 1Password | 5 |
-| Cohere | 4 |
 | D2L | 4 |
-| Faire | 3 |
 | Geotab | 3 |
+| Faire | 2 |
 | Float | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 17 |
+| Software Development | 18 |
 | Cloud and DevOps | 3 |
 | Support and Operations | 3 |
 | Backend | 2 |
@@ -59,9 +61,9 @@ _None._
 |---|---|
 | Canada | 7 |
 | Remote (United States \| Canada) | 5 |
-| Kitchener-Waterloo, ON | 3 |
+| Toronto | 5 |
 | Oakville, Ontario - Canada | 3 |
-| Toronto | 3 |
+| Kitchener-Waterloo, ON | 2 |
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
 | Kitchener, Ontario | 1 |
 | Kitchener, Remote Canada | 1 |
@@ -72,8 +74,8 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| greenhouse | 16 |
-| ashby | 10 |
+| greenhouse | 15 |
+| ashby | 12 |
 
 ---
 
