@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-09-18 14:59",
+  "generated_at": "2026-09-19 14:25",
   "totals": {
     "active_jobs": 27,
     "explicitly_junior": 3,
-    "added": 2,
+    "added": 1,
     "removed": 1,
     "changed": 0,
-    "unchanged": 25
+    "unchanged": 26
   },
   "by_source": [
     {
       "source": "greenhouse",
-      "jobs": 15
+      "jobs": 14
     },
     {
       "source": "ashby",
-      "jobs": 12
+      "jobs": 13
     }
   ],
   "top_companies": [
@@ -33,7 +33,7 @@
     },
     {
       "company": "D2L",
-      "jobs": 4
+      "jobs": 3
     },
     {
       "company": "Geotab",
@@ -46,12 +46,16 @@
     {
       "company": "Float",
       "jobs": 1
+    },
+    {
+      "company": "Loopio",
+      "jobs": 1
     }
   ],
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 18
+      "jobs": 17
     },
     {
       "category": "Cloud and DevOps",
@@ -67,7 +71,7 @@
     },
     {
       "category": "Data and BI",
-      "jobs": 1
+      "jobs": 2
     }
   ],
   "top_locations": [
@@ -96,10 +100,6 @@
       "jobs": 1
     },
     {
-      "location": "Kitchener, Ontario",
-      "jobs": 1
-    },
-    {
       "location": "Kitchener, Remote Canada",
       "jobs": 1
     },
@@ -110,32 +110,28 @@
     {
       "location": "Ontario",
       "jobs": 1
+    },
+    {
+      "location": "Toronto, ON Hub",
+      "jobs": 1
     }
   ],
   "new_jobs": [
     {
-      "job_id": "a4664dacb534",
-      "title": "IT Support Specialist",
-      "company": "Cohere",
-      "location": "Toronto",
-      "category": "Support and Operations",
-      "url": "https://jobs.ashbyhq.com/cohere/7815bf85-11ae-4cf8-883f-13f6ab09d264"
-    },
-    {
-      "job_id": "4663d19eb844",
-      "title": "Software Engineer, Security",
-      "company": "Cohere",
-      "location": "Toronto",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0"
+      "job_id": "22eaf1254332",
+      "title": "Data Engineer",
+      "company": "Loopio",
+      "location": "Toronto, ON Hub",
+      "category": "Data and BI",
+      "url": "https://jobs.ashbyhq.com/loopio/22176975-076d-48f4-aa35-96be7daf1889"
     }
   ],
   "removed_jobs": [
     {
-      "job_id": "996e5058993f",
-      "title": "IT Support Technician",
-      "company": "Faire",
-      "location": "Kitchener-Waterloo, ON"
+      "job_id": "dead81904abd",
+      "title": "Salesforce Developer",
+      "company": "D2L",
+      "location": "Kitchener, Ontario"
     }
   ],
   "source_errors": []
