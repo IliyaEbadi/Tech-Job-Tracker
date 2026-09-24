@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-19 14:25 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-24 15:49 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -12,25 +12,27 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 | Active postings tracked | 27 |
 | New this run | 1 |
 | Removed / expired this run | 1 |
-| Updated postings | 0 |
-| Unchanged postings | 26 |
+| Updated postings | 1 |
+| Unchanged postings | 25 |
 | Explicitly junior / intern / new-grad titles | 3 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Data Engineer](https://jobs.ashbyhq.com/loopio/22176975-076d-48f4-aa35-96be7daf1889) | Loopio | Toronto, ON Hub | Data and BI | 2026-09-18 |
+| [IT Support Specialist](https://jobs.lever.co/knix/f46b5cd0-0de2-4452-9b2c-684eae670123) | Knix | Toronto, ON | Support and Operations | 2026-09-23 |
 
 ## Removed or expired since the last run
 
 | Role | Company | Location |
 |---|---|---|
-| Salesforce Developer | D2L | Kitchener, Ontario |
+| Technical Support Specialist - Bilingual Portuguese | Geotab | Oakville, Ontario - Canada |
 
 ## Updated postings
 
-_None._
+| Role | Company | What changed |
+|---|---|---|
+| [Software Developer](https://job-boards.greenhouse.io/geotab/jobs/5386820008) | Geotab | url: https://job-boards.greenhouse.io/geotab/jobs/5363388008 -> https://job-boards.greenhouse.io/geotab/jobs/5386820008 |
 
 ## Top companies (top 10)
 
@@ -40,9 +42,10 @@ _None._
 | StackAdapt | 6 |
 | 1Password | 5 |
 | D2L | 3 |
-| Geotab | 3 |
 | Faire | 2 |
+| Geotab | 2 |
 | Float | 1 |
+| Knix | 1 |
 | Loopio | 1 |
 
 ## Roles by category
@@ -62,20 +65,21 @@ _None._
 | Canada | 7 |
 | Remote (United States \| Canada) | 5 |
 | Toronto | 5 |
-| Oakville, Ontario - Canada | 3 |
 | Kitchener-Waterloo, ON | 2 |
+| Oakville, Ontario - Canada | 2 |
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
 | Kitchener, Remote Canada | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Ontario | 1 |
-| Toronto, ON Hub | 1 |
+| Toronto, ON | 1 |
 
 ## Sources
 
 | Source | Postings kept |
 |---|---|
-| greenhouse | 14 |
 | ashby | 13 |
+| greenhouse | 13 |
+| lever | 1 |
 
 ---
 

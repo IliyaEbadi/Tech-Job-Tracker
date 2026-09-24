@@ -1,21 +1,25 @@
 {
-  "generated_at": "2026-09-19 14:25",
+  "generated_at": "2026-09-24 15:49",
   "totals": {
     "active_jobs": 27,
     "explicitly_junior": 3,
     "added": 1,
     "removed": 1,
-    "changed": 0,
-    "unchanged": 26
+    "changed": 1,
+    "unchanged": 25
   },
   "by_source": [
     {
-      "source": "greenhouse",
-      "jobs": 14
-    },
-    {
       "source": "ashby",
       "jobs": 13
+    },
+    {
+      "source": "greenhouse",
+      "jobs": 13
+    },
+    {
+      "source": "lever",
+      "jobs": 1
     }
   ],
   "top_companies": [
@@ -36,15 +40,19 @@
       "jobs": 3
     },
     {
-      "company": "Geotab",
-      "jobs": 3
-    },
-    {
       "company": "Faire",
       "jobs": 2
     },
     {
+      "company": "Geotab",
+      "jobs": 2
+    },
+    {
       "company": "Float",
+      "jobs": 1
+    },
+    {
+      "company": "Knix",
       "jobs": 1
     },
     {
@@ -88,11 +96,11 @@
       "jobs": 5
     },
     {
-      "location": "Oakville, Ontario - Canada",
-      "jobs": 3
+      "location": "Kitchener-Waterloo, ON",
+      "jobs": 2
     },
     {
-      "location": "Kitchener-Waterloo, ON",
+      "location": "Oakville, Ontario - Canada",
       "jobs": 2
     },
     {
@@ -112,26 +120,26 @@
       "jobs": 1
     },
     {
-      "location": "Toronto, ON Hub",
+      "location": "Toronto, ON",
       "jobs": 1
     }
   ],
   "new_jobs": [
     {
-      "job_id": "22eaf1254332",
-      "title": "Data Engineer",
-      "company": "Loopio",
-      "location": "Toronto, ON Hub",
-      "category": "Data and BI",
-      "url": "https://jobs.ashbyhq.com/loopio/22176975-076d-48f4-aa35-96be7daf1889"
+      "job_id": "51185b9ddcc4",
+      "title": "IT Support Specialist",
+      "company": "Knix",
+      "location": "Toronto, ON",
+      "category": "Support and Operations",
+      "url": "https://jobs.lever.co/knix/f46b5cd0-0de2-4452-9b2c-684eae670123"
     }
   ],
   "removed_jobs": [
     {
-      "job_id": "dead81904abd",
-      "title": "Salesforce Developer",
-      "company": "D2L",
-      "location": "Kitchener, Ontario"
+      "job_id": "564b8494e285",
+      "title": "Technical Support Specialist - Bilingual Portuguese",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada"
     }
   ],
   "source_errors": []
