@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 27,
+  "job_count": 26,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -464,23 +464,6 @@
       "employment_type": "",
       "workplace_type": "",
       "posted_at": "2026-05-08",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "software engineer"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
-    },
-    {
-      "job_id": "9f9b356fc3d7",
-      "title": "Software Engineer, User Profile",
-      "company": "StackAdapt",
-      "location": "Toronto",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4274279009",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-07-14",
       "first_seen": "2026-08-26",
       "tags": [
         "software engineer"

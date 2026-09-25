@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-24 15:49 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-25 15:49 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,38 +9,34 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 27 |
-| New this run | 1 |
+| Active postings tracked | 26 |
+| New this run | 0 |
 | Removed / expired this run | 1 |
-| Updated postings | 1 |
-| Unchanged postings | 25 |
+| Updated postings | 0 |
+| Unchanged postings | 26 |
 | Explicitly junior / intern / new-grad titles | 3 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [IT Support Specialist](https://jobs.lever.co/knix/f46b5cd0-0de2-4452-9b2c-684eae670123) | Knix | Toronto, ON | Support and Operations | 2026-09-23 |
+_None._
 
 ## Removed or expired since the last run
 
 | Role | Company | Location |
 |---|---|---|
-| Technical Support Specialist - Bilingual Portuguese | Geotab | Oakville, Ontario - Canada |
+| Software Engineer, User Profile | StackAdapt | Toronto |
 
 ## Updated postings
 
-| Role | Company | What changed |
-|---|---|---|
-| [Software Developer](https://job-boards.greenhouse.io/geotab/jobs/5386820008) | Geotab | url: https://job-boards.greenhouse.io/geotab/jobs/5363388008 -> https://job-boards.greenhouse.io/geotab/jobs/5386820008 |
+_None._
 
 ## Top companies (top 10)
 
 | Company | Open tracked roles |
 |---|---|
 | Cohere | 6 |
-| StackAdapt | 6 |
 | 1Password | 5 |
+| StackAdapt | 5 |
 | D2L | 3 |
 | Faire | 2 |
 | Geotab | 2 |
@@ -52,7 +48,7 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Category | Postings |
 |---|---|
-| Software Development | 17 |
+| Software Development | 16 |
 | Cloud and DevOps | 3 |
 | Support and Operations | 3 |
 | Backend | 2 |
@@ -64,7 +60,7 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 |---|---|
 | Canada | 7 |
 | Remote (United States \| Canada) | 5 |
-| Toronto | 5 |
+| Toronto | 4 |
 | Kitchener-Waterloo, ON | 2 |
 | Oakville, Ontario - Canada | 2 |
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
@@ -78,7 +74,7 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 | Source | Postings kept |
 |---|---|
 | ashby | 13 |
-| greenhouse | 13 |
+| greenhouse | 12 |
 | lever | 1 |
 
 ---
