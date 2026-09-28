@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-09-25 15:49 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-09-28 18:36 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,11 +9,11 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 26 |
+| Active postings tracked | 24 |
 | New this run | 0 |
-| Removed / expired this run | 1 |
+| Removed / expired this run | 2 |
 | Updated postings | 0 |
-| Unchanged postings | 26 |
+| Unchanged postings | 24 |
 | Explicitly junior / intern / new-grad titles | 3 |
 
 ## New this run
@@ -24,7 +24,8 @@ _None._
 
 | Role | Company | Location |
 |---|---|---|
-| Software Engineer, User Profile | StackAdapt | Toronto |
+| IT Support Specialist | Knix | Toronto, ON |
+| Software Engineer, Stats & Analytics | StackAdapt | Ontario |
 
 ## Updated postings
 
@@ -36,23 +37,22 @@ _None._
 |---|---|
 | Cohere | 6 |
 | 1Password | 5 |
-| StackAdapt | 5 |
+| StackAdapt | 4 |
 | D2L | 3 |
 | Faire | 2 |
 | Geotab | 2 |
 | Float | 1 |
-| Knix | 1 |
 | Loopio | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 16 |
+| Software Development | 15 |
 | Cloud and DevOps | 3 |
-| Support and Operations | 3 |
 | Backend | 2 |
 | Data and BI | 2 |
+| Support and Operations | 2 |
 
 ## Top locations
 
@@ -66,16 +66,14 @@ _None._
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
 | Kitchener, Remote Canada | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
-| Ontario | 1 |
-| Toronto, ON | 1 |
+| Toronto, ON Hub | 1 |
 
 ## Sources
 
 | Source | Postings kept |
 |---|---|
 | ashby | 13 |
-| greenhouse | 12 |
-| lever | 1 |
+| greenhouse | 11 |
 
 ---
 

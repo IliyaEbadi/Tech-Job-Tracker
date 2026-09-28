@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25 15:49",
+  "generated_at": "2026-09-28 18:36",
   "totals": {
-    "active_jobs": 26,
+    "active_jobs": 24,
     "explicitly_junior": 3,
     "added": 0,
-    "removed": 1,
+    "removed": 2,
     "changed": 0,
-    "unchanged": 26
+    "unchanged": 24
   },
   "by_source": [
     {
@@ -15,11 +15,7 @@
     },
     {
       "source": "greenhouse",
-      "jobs": 12
-    },
-    {
-      "source": "lever",
-      "jobs": 1
+      "jobs": 11
     }
   ],
   "top_companies": [
@@ -33,7 +29,7 @@
     },
     {
       "company": "StackAdapt",
-      "jobs": 5
+      "jobs": 4
     },
     {
       "company": "D2L",
@@ -52,10 +48,6 @@
       "jobs": 1
     },
     {
-      "company": "Knix",
-      "jobs": 1
-    },
-    {
       "company": "Loopio",
       "jobs": 1
     }
@@ -63,14 +55,10 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 16
+      "jobs": 15
     },
     {
       "category": "Cloud and DevOps",
-      "jobs": 3
-    },
-    {
-      "category": "Support and Operations",
       "jobs": 3
     },
     {
@@ -79,6 +67,10 @@
     },
     {
       "category": "Data and BI",
+      "jobs": 2
+    },
+    {
+      "category": "Support and Operations",
       "jobs": 2
     }
   ],
@@ -116,21 +108,23 @@
       "jobs": 1
     },
     {
-      "location": "Ontario",
-      "jobs": 1
-    },
-    {
-      "location": "Toronto, ON",
+      "location": "Toronto, ON Hub",
       "jobs": 1
     }
   ],
   "new_jobs": [],
   "removed_jobs": [
     {
-      "job_id": "9f9b356fc3d7",
-      "title": "Software Engineer, User Profile",
+      "job_id": "51185b9ddcc4",
+      "title": "IT Support Specialist",
+      "company": "Knix",
+      "location": "Toronto, ON"
+    },
+    {
+      "job_id": "7316b72c4591",
+      "title": "Software Engineer, Stats & Analytics",
       "company": "StackAdapt",
-      "location": "Toronto"
+      "location": "Ontario"
     }
   ],
   "source_errors": []

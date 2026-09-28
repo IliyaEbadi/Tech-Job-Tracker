@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 26,
+  "job_count": 24,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -350,24 +350,6 @@
       "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
     },
     {
-      "job_id": "51185b9ddcc4",
-      "title": "IT Support Specialist",
-      "company": "Knix",
-      "location": "Toronto, ON",
-      "url": "https://jobs.lever.co/knix/f46b5cd0-0de2-4452-9b2c-684eae670123",
-      "source": "lever",
-      "category": "Support and Operations",
-      "employment_type": "Full Time Permanent - Team Member (Hq)",
-      "workplace_type": "On-site",
-      "posted_at": "2026-09-23",
-      "first_seen": "2026-09-24",
-      "tags": [
-        "it support",
-        "on-site"
-      ],
-      "summary": "Knix is an award-winning intimate apparel and activewear brand that is re-inventing intimates for real life. Through our innovative products and our engaged community, we are empowering people everywhere to be unapologetically free. Launched in 2013, we are one of the..."
-    },
-    {
       "job_id": "22eaf1254332",
       "title": "Data Engineer",
       "company": "Loopio",
@@ -450,23 +432,6 @@
       "first_seen": "2026-08-26",
       "tags": [
         "data analyst"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
-    },
-    {
-      "job_id": "7316b72c4591",
-      "title": "Software Engineer, Stats & Analytics",
-      "company": "StackAdapt",
-      "location": "Ontario",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4244715009",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-05-08",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "software engineer"
       ],
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     }
