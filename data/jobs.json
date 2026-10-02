@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 24,
+  "job_count": 23,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -315,6 +315,23 @@
       "summary": "This posting reflects a current, actively recruited opening at Float. All applications are being reviewed on a rolling basis. ABOUT FLOAT Float is on a mission to simplify finance for Canadian businesses, empowering them to eliminate complexity and unlock new opportunities..."
     },
     {
+      "job_id": "319c29df5a65",
+      "title": "Data Scientist",
+      "company": "Geotab",
+      "location": "Toronto, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5434061008",
+      "source": "greenhouse",
+      "category": "Data and BI",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-10-01",
+      "first_seen": "2026-10-02",
+      "tags": [
+        "data scientist"
+      ],
+      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
+    },
+    {
       "job_id": "adc615bc2e82",
       "title": "Software Developer",
       "company": "Geotab",
@@ -385,23 +402,6 @@
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },
     {
-      "job_id": "68883c585886",
-      "title": "Full Stack Engineer",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-06-03",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "full stack"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
-    },
-    {
       "job_id": "c9465c9e6983",
       "title": "Integrations Developer",
       "company": "StackAdapt",
@@ -415,23 +415,6 @@
       "first_seen": "2026-08-26",
       "tags": [
         "developer"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
-    },
-    {
-      "job_id": "0be9a70eef40",
-      "title": "Product Data Analyst, Mobile App User Acquisition",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4354888009",
-      "source": "greenhouse",
-      "category": "Data and BI",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-08-11",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "data analyst"
       ],
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     }

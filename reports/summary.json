@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-28 18:36",
+  "generated_at": "2026-10-02 16:38",
   "totals": {
-    "active_jobs": 24,
+    "active_jobs": 23,
     "explicitly_junior": 3,
-    "added": 0,
+    "added": 1,
     "removed": 2,
     "changed": 0,
-    "unchanged": 24
+    "unchanged": 22
   },
   "by_source": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "source": "greenhouse",
-      "jobs": 11
+      "jobs": 10
     }
   ],
   "top_companies": [
@@ -28,11 +28,11 @@
       "jobs": 5
     },
     {
-      "company": "StackAdapt",
-      "jobs": 4
+      "company": "D2L",
+      "jobs": 3
     },
     {
-      "company": "D2L",
+      "company": "Geotab",
       "jobs": 3
     },
     {
@@ -40,7 +40,7 @@
       "jobs": 2
     },
     {
-      "company": "Geotab",
+      "company": "StackAdapt",
       "jobs": 2
     },
     {
@@ -55,7 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 15
+      "jobs": 14
     },
     {
       "category": "Cloud and DevOps",
@@ -77,7 +77,7 @@
   "top_locations": [
     {
       "location": "Canada",
-      "jobs": 7
+      "jobs": 5
     },
     {
       "location": "Remote (United States | Canada)",
@@ -110,21 +110,34 @@
     {
       "location": "Toronto, ON Hub",
       "jobs": 1
-    }
-  ],
-  "new_jobs": [],
-  "removed_jobs": [
-    {
-      "job_id": "51185b9ddcc4",
-      "title": "IT Support Specialist",
-      "company": "Knix",
-      "location": "Toronto, ON"
     },
     {
-      "job_id": "7316b72c4591",
-      "title": "Software Engineer, Stats & Analytics",
+      "location": "Toronto, Ontario - Canada",
+      "jobs": 1
+    }
+  ],
+  "new_jobs": [
+    {
+      "job_id": "319c29df5a65",
+      "title": "Data Scientist",
+      "company": "Geotab",
+      "location": "Toronto, Ontario - Canada",
+      "category": "Data and BI",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5434061008"
+    }
+  ],
+  "removed_jobs": [
+    {
+      "job_id": "68883c585886",
+      "title": "Full Stack Engineer",
       "company": "StackAdapt",
-      "location": "Ontario"
+      "location": "Canada"
+    },
+    {
+      "job_id": "0be9a70eef40",
+      "title": "Product Data Analyst, Mobile App User Acquisition",
+      "company": "StackAdapt",
+      "location": "Canada"
     }
   ],
   "source_errors": []
