@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02 16:38",
+  "generated_at": "2026-10-05 19:47",
   "totals": {
-    "active_jobs": 23,
-    "explicitly_junior": 3,
+    "active_jobs": 21,
+    "explicitly_junior": 2,
     "added": 1,
-    "removed": 2,
+    "removed": 3,
     "changed": 0,
-    "unchanged": 22
+    "unchanged": 20
   },
   "by_source": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "source": "greenhouse",
-      "jobs": 10
+      "jobs": 8
     }
   ],
   "top_companies": [
@@ -29,14 +29,14 @@
     },
     {
       "company": "D2L",
-      "jobs": 3
-    },
-    {
-      "company": "Geotab",
-      "jobs": 3
+      "jobs": 2
     },
     {
       "company": "Faire",
+      "jobs": 2
+    },
+    {
+      "company": "Geotab",
       "jobs": 2
     },
     {
@@ -55,7 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 14
+      "jobs": 13
     },
     {
       "category": "Cloud and DevOps",
@@ -66,12 +66,12 @@
       "jobs": 2
     },
     {
-      "category": "Data and BI",
+      "category": "Support and Operations",
       "jobs": 2
     },
     {
-      "category": "Support and Operations",
-      "jobs": 2
+      "category": "Data and BI",
+      "jobs": 1
     }
   ],
   "top_locations": [
@@ -100,44 +100,42 @@
       "jobs": 1
     },
     {
-      "location": "Kitchener, Remote Canada",
-      "jobs": 1
-    },
-    {
       "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
       "jobs": 1
     },
     {
       "location": "Toronto, ON Hub",
       "jobs": 1
-    },
-    {
-      "location": "Toronto, Ontario - Canada",
-      "jobs": 1
     }
   ],
   "new_jobs": [
     {
-      "job_id": "319c29df5a65",
-      "title": "Data Scientist",
+      "job_id": "750a369c7126",
+      "title": "Technical Support Specialist - Bilingual French",
       "company": "Geotab",
-      "location": "Toronto, Ontario - Canada",
-      "category": "Data and BI",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5434061008"
+      "location": "Oakville, Ontario - Canada",
+      "category": "Support and Operations",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5439738008"
     }
   ],
   "removed_jobs": [
     {
-      "job_id": "68883c585886",
-      "title": "Full Stack Engineer",
-      "company": "StackAdapt",
-      "location": "Canada"
+      "job_id": "3756c9c61848",
+      "title": "Software Test Developer - New Graduate",
+      "company": "D2L",
+      "location": "Kitchener, Remote Canada"
     },
     {
-      "job_id": "0be9a70eef40",
-      "title": "Product Data Analyst, Mobile App User Acquisition",
-      "company": "StackAdapt",
-      "location": "Canada"
+      "job_id": "319c29df5a65",
+      "title": "Data Scientist",
+      "company": "Geotab",
+      "location": "Toronto, Ontario - Canada"
+    },
+    {
+      "job_id": "38350bf10130",
+      "title": "Technical Support Specialist - Bilingual Spanish",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada"
     }
   ],
   "source_errors": []

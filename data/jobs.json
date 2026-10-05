@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 23,
+  "job_count": 21,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -241,25 +241,6 @@
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
     },
     {
-      "job_id": "3756c9c61848",
-      "title": "Software Test Developer - New Graduate",
-      "company": "D2L",
-      "location": "Kitchener, Remote Canada",
-      "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "Remote",
-      "posted_at": "2024-10-02",
-      "first_seen": "2026-09-10",
-      "tags": [
-        "developer",
-        "junior",
-        "remote"
-      ],
-      "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
-    },
-    {
       "job_id": "793292013e00",
       "title": "Product Engineer - Brand - Fullstack, Backend or Frontend",
       "company": "Faire",
@@ -315,23 +296,6 @@
       "summary": "This posting reflects a current, actively recruited opening at Float. All applications are being reviewed on a rolling basis. ABOUT FLOAT Float is on a mission to simplify finance for Canadian businesses, empowering them to eliminate complexity and unlock new opportunities..."
     },
     {
-      "job_id": "319c29df5a65",
-      "title": "Data Scientist",
-      "company": "Geotab",
-      "location": "Toronto, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5434061008",
-      "source": "greenhouse",
-      "category": "Data and BI",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "tags": [
-        "data scientist"
-      ],
-      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
-    },
-    {
       "job_id": "adc615bc2e82",
       "title": "Software Developer",
       "company": "Geotab",
@@ -350,17 +314,17 @@
       "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
     },
     {
-      "job_id": "38350bf10130",
-      "title": "Technical Support Specialist - Bilingual Spanish",
+      "job_id": "750a369c7126",
+      "title": "Technical Support Specialist - Bilingual French",
       "company": "Geotab",
       "location": "Oakville, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5407730008",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5439738008",
       "source": "greenhouse",
       "category": "Support and Operations",
       "employment_type": "",
       "workplace_type": "",
-      "posted_at": "2026-09-03",
-      "first_seen": "2026-09-04",
+      "posted_at": "2026-10-04",
+      "first_seen": "2026-10-05",
       "tags": [
         "technical support"
       ],
