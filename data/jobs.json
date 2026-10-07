@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 21,
+  "job_count": 18,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -94,35 +94,17 @@
       "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
-      "job_id": "a4664dacb534",
-      "title": "IT Support Specialist",
-      "company": "Cohere",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/cohere/7815bf85-11ae-4cf8-883f-13f6ab09d264",
-      "source": "ashby",
-      "category": "Support and Operations",
-      "employment_type": "Full-time",
-      "workplace_type": "On-site",
-      "posted_at": "2026-09-18",
-      "first_seen": "2026-09-18",
-      "tags": [
-        "it support",
-        "on-site"
-      ],
-      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
-    },
-    {
-      "job_id": "64bf67d9cdf9",
+      "job_id": "dcbd5885e682",
       "title": "Product Security Engineer, North Security",
       "company": "Cohere",
-      "location": "Canada",
+      "location": "Toronto",
       "url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2",
       "source": "ashby",
       "category": "Cloud and DevOps",
       "employment_type": "Full-time",
       "workplace_type": "Remote",
       "posted_at": "2026-09-11",
-      "first_seen": "2026-09-11",
+      "first_seen": "2026-10-07",
       "tags": [
         "remote",
         "security engineer"
@@ -296,24 +278,6 @@
       "summary": "This posting reflects a current, actively recruited opening at Float. All applications are being reviewed on a rolling basis. ABOUT FLOAT Float is on a mission to simplify finance for Canadian businesses, empowering them to eliminate complexity and unlock new opportunities..."
     },
     {
-      "job_id": "adc615bc2e82",
-      "title": "Software Developer",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5386820008",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-08-27",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "developer",
-        "software developer"
-      ],
-      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
-    },
-    {
       "job_id": "750a369c7126",
       "title": "Technical Support Specialist - Bilingual French",
       "company": "Geotab",
@@ -347,23 +311,6 @@
         "remote"
       ],
       "summary": "TAKE YOUR CAREER TO NEW HEIGHTS WITH LOOPIO! 🚀✨ Loopio’s Data Engineering Team works together on a mission to transform the RFP response process into a rapid and seamless experience. Our team works across all platform portfolio features and delivers innovative solutions where it..."
-    },
-    {
-      "job_id": "dec0417cf763",
-      "title": "DevOps Engineer (Kubernetes team)",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4312807009",
-      "source": "greenhouse",
-      "category": "Cloud and DevOps",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-07-22",
-      "first_seen": "2026-08-27",
-      "tags": [
-        "devops"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },
     {
       "job_id": "c9465c9e6983",
