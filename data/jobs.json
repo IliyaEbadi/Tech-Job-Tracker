@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 18,
+  "job_count": 19,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -328,6 +328,24 @@
         "developer"
       ],
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
+    },
+    {
+      "job_id": "e5d43dc7ca39",
+      "title": "Marketing Automation Developer (18-month contract)",
+      "company": "Wealthsimple",
+      "location": "Remote (Canada)",
+      "url": "https://jobs.ashbyhq.com/wealthsimple/ffa5e79d-f585-428a-a916-930450533fb5",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "tags": [
+        "developer",
+        "remote"
+      ],
+      "summary": "BUILD SOMETHING PEOPLE LOVE Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently..."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-07 17:49 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-08 17:52 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,27 +9,22 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 18 |
+| Active postings tracked | 19 |
 | New this run | 1 |
-| Removed / expired this run | 4 |
+| Removed / expired this run | 0 |
 | Updated postings | 0 |
-| Unchanged postings | 17 |
+| Unchanged postings | 18 |
 | Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Product Security Engineer, North Security](https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2) | Cohere | Toronto | Cloud and DevOps | 2026-09-11 |
+| [Marketing Automation Developer (18-month contract)](https://jobs.ashbyhq.com/wealthsimple/ffa5e79d-f585-428a-a916-930450533fb5) | Wealthsimple | Remote (Canada) | Software Development | 2026-10-08 |
 
 ## Removed or expired since the last run
 
-| Role | Company | Location |
-|---|---|---|
-| IT Support Specialist | Cohere | Toronto |
-| Product Security Engineer, North Security | Cohere | Canada |
-| Software Developer | Geotab | Oakville, Ontario - Canada |
-| DevOps Engineer (Kubernetes team) | StackAdapt | Canada |
+_None._
 
 ## Updated postings
 
@@ -47,12 +42,13 @@ _None._
 | Geotab | 1 |
 | Loopio | 1 |
 | StackAdapt | 1 |
+| Wealthsimple | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 12 |
+| Software Development | 13 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
 | Data and BI | 1 |
@@ -69,13 +65,14 @@ _None._
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Oakville, Ontario - Canada | 1 |
+| Remote (Canada) | 1 |
 | Toronto, ON Hub | 1 |
 
 ## Sources
 
 | Source | Postings kept |
 |---|---|
-| ashby | 12 |
+| ashby | 13 |
 | greenhouse | 6 |
 
 ---

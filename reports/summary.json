@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-07 17:49",
+  "generated_at": "2026-10-08 17:52",
   "totals": {
-    "active_jobs": 18,
+    "active_jobs": 19,
     "explicitly_junior": 2,
     "added": 1,
-    "removed": 4,
+    "removed": 0,
     "changed": 0,
-    "unchanged": 17
+    "unchanged": 18
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 12
+      "jobs": 13
     },
     {
       "source": "greenhouse",
@@ -50,12 +50,16 @@
     {
       "company": "StackAdapt",
       "jobs": 1
+    },
+    {
+      "company": "Wealthsimple",
+      "jobs": 1
     }
   ],
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 12
+      "jobs": 13
     },
     {
       "category": "Backend",
@@ -104,45 +108,24 @@
       "jobs": 1
     },
     {
+      "location": "Remote (Canada)",
+      "jobs": 1
+    },
+    {
       "location": "Toronto, ON Hub",
       "jobs": 1
     }
   ],
   "new_jobs": [
     {
-      "job_id": "dcbd5885e682",
-      "title": "Product Security Engineer, North Security",
-      "company": "Cohere",
-      "location": "Toronto",
-      "category": "Cloud and DevOps",
-      "url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2"
+      "job_id": "e5d43dc7ca39",
+      "title": "Marketing Automation Developer (18-month contract)",
+      "company": "Wealthsimple",
+      "location": "Remote (Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/wealthsimple/ffa5e79d-f585-428a-a916-930450533fb5"
     }
   ],
-  "removed_jobs": [
-    {
-      "job_id": "a4664dacb534",
-      "title": "IT Support Specialist",
-      "company": "Cohere",
-      "location": "Toronto"
-    },
-    {
-      "job_id": "64bf67d9cdf9",
-      "title": "Product Security Engineer, North Security",
-      "company": "Cohere",
-      "location": "Canada"
-    },
-    {
-      "job_id": "adc615bc2e82",
-      "title": "Software Developer",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada"
-    },
-    {
-      "job_id": "dec0417cf763",
-      "title": "DevOps Engineer (Kubernetes team)",
-      "company": "StackAdapt",
-      "location": "Canada"
-    }
-  ],
+  "removed_jobs": [],
   "source_errors": []
 }
