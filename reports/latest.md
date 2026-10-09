@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-08 17:52 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-09 17:26 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,22 +9,22 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 19 |
-| New this run | 1 |
-| Removed / expired this run | 0 |
+| Active postings tracked | 18 |
+| New this run | 0 |
+| Removed / expired this run | 1 |
 | Updated postings | 0 |
 | Unchanged postings | 18 |
 | Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Marketing Automation Developer (18-month contract)](https://jobs.ashbyhq.com/wealthsimple/ffa5e79d-f585-428a-a916-930450533fb5) | Wealthsimple | Remote (Canada) | Software Development | 2026-10-08 |
+_None._
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| Technical Support Specialist - Bilingual French | Geotab | Oakville, Ontario - Canada |
 
 ## Updated postings
 
@@ -39,7 +39,6 @@ _None._
 | D2L | 2 |
 | Faire | 2 |
 | Float | 1 |
-| Geotab | 1 |
 | Loopio | 1 |
 | StackAdapt | 1 |
 | Wealthsimple | 1 |
@@ -52,7 +51,6 @@ _None._
 | Backend | 2 |
 | Cloud and DevOps | 2 |
 | Data and BI | 1 |
-| Support and Operations | 1 |
 
 ## Top locations
 
@@ -64,7 +62,6 @@ _None._
 | Kitchener-Waterloo, ON | 2 |
 | Kitchener, ON, Canada, Toronto, ON... | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
-| Oakville, Ontario - Canada | 1 |
 | Remote (Canada) | 1 |
 | Toronto, ON Hub | 1 |
 
@@ -73,7 +70,7 @@ _None._
 | Source | Postings kept |
 |---|---|
 | ashby | 13 |
-| greenhouse | 6 |
+| greenhouse | 5 |
 
 ---
 
