@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-09 17:26",
+  "generated_at": "2026-10-10 16:14",
   "totals": {
-    "active_jobs": 18,
+    "active_jobs": 17,
     "explicitly_junior": 2,
     "added": 0,
     "removed": 1,
     "changed": 0,
-    "unchanged": 18
+    "unchanged": 17
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 13
+      "jobs": 12
     },
     {
       "source": "greenhouse",
@@ -20,12 +20,12 @@
   ],
   "top_companies": [
     {
-      "company": "1Password",
+      "company": "Cohere",
       "jobs": 5
     },
     {
-      "company": "Cohere",
-      "jobs": 5
+      "company": "1Password",
+      "jobs": 4
     },
     {
       "company": "D2L",
@@ -55,7 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 13
+      "jobs": 12
     },
     {
       "category": "Backend",
@@ -73,7 +73,7 @@
   "top_locations": [
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 5
+      "jobs": 4
     },
     {
       "location": "Toronto",
@@ -107,10 +107,10 @@
   "new_jobs": [],
   "removed_jobs": [
     {
-      "job_id": "750a369c7126",
-      "title": "Technical Support Specialist - Bilingual French",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada"
+      "job_id": "bfcdfffba9b6",
+      "title": "Developer, Rust",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
     }
   ],
   "source_errors": []

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 18,
+  "job_count": 17,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -53,24 +53,6 @@
       "tags": [
         "developer",
         "full stack",
-        "remote"
-      ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
-    },
-    {
-      "job_id": "bfcdfffba9b6",
-      "title": "Developer, Rust",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "url": "https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538",
-      "source": "ashby",
-      "category": "Software Development",
-      "employment_type": "Full-time",
-      "workplace_type": "Remote",
-      "posted_at": "2026-08-14",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "developer",
         "remote"
       ],
       "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."

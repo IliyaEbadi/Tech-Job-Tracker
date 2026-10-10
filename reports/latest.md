@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-09 17:26 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-10 16:14 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,11 +9,11 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 18 |
+| Active postings tracked | 17 |
 | New this run | 0 |
 | Removed / expired this run | 1 |
 | Updated postings | 0 |
-| Unchanged postings | 18 |
+| Unchanged postings | 17 |
 | Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
@@ -24,7 +24,7 @@ _None._
 
 | Role | Company | Location |
 |---|---|---|
-| Technical Support Specialist - Bilingual French | Geotab | Oakville, Ontario - Canada |
+| Developer, Rust | 1Password | Remote (United States \| Canada) |
 
 ## Updated postings
 
@@ -34,8 +34,8 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
-| 1Password | 5 |
 | Cohere | 5 |
+| 1Password | 4 |
 | D2L | 2 |
 | Faire | 2 |
 | Float | 1 |
@@ -47,7 +47,7 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 13 |
+| Software Development | 12 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
 | Data and BI | 1 |
@@ -56,7 +56,7 @@ _None._
 
 | Location | Postings |
 |---|---|
-| Remote (United States \| Canada) | 5 |
+| Remote (United States \| Canada) | 4 |
 | Toronto | 4 |
 | Canada | 3 |
 | Kitchener-Waterloo, ON | 2 |
@@ -69,7 +69,7 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 13 |
+| ashby | 12 |
 | greenhouse | 5 |
 
 ---
