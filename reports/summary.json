@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-10 16:14",
+  "generated_at": "2026-10-13 18:18",
   "totals": {
-    "active_jobs": 17,
+    "active_jobs": 18,
     "explicitly_junior": 2,
-    "added": 0,
-    "removed": 1,
+    "added": 1,
+    "removed": 0,
     "changed": 0,
     "unchanged": 17
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 12
+      "jobs": 13
     },
     {
       "source": "greenhouse",
@@ -36,6 +36,10 @@
       "jobs": 2
     },
     {
+      "company": "Wealthsimple",
+      "jobs": 2
+    },
+    {
       "company": "Float",
       "jobs": 1
     },
@@ -45,10 +49,6 @@
     },
     {
       "company": "StackAdapt",
-      "jobs": 1
-    },
-    {
-      "company": "Wealthsimple",
       "jobs": 1
     }
   ],
@@ -67,7 +67,7 @@
     },
     {
       "category": "Data and BI",
-      "jobs": 1
+      "jobs": 2
     }
   ],
   "top_locations": [
@@ -88,6 +88,10 @@
       "jobs": 2
     },
     {
+      "location": "Remote (Canada)",
+      "jobs": 2
+    },
+    {
       "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
       "jobs": 1
     },
@@ -96,22 +100,20 @@
       "jobs": 1
     },
     {
-      "location": "Remote (Canada)",
-      "jobs": 1
-    },
-    {
       "location": "Toronto, ON Hub",
       "jobs": 1
     }
   ],
-  "new_jobs": [],
-  "removed_jobs": [
+  "new_jobs": [
     {
-      "job_id": "bfcdfffba9b6",
-      "title": "Developer, Rust",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
+      "job_id": "de39da12c7d5",
+      "title": "Data Scientist, Sales",
+      "company": "Wealthsimple",
+      "location": "Remote (Canada)",
+      "category": "Data and BI",
+      "url": "https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1"
     }
   ],
+  "removed_jobs": [],
   "source_errors": []
 }

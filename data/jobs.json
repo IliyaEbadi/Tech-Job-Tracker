@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 17,
+  "job_count": 18,
   "jobs": [
     {
       "job_id": "f52bc143dd9f",
@@ -293,6 +293,24 @@
         "developer"
       ],
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
+    },
+    {
+      "job_id": "de39da12c7d5",
+      "title": "Data Scientist, Sales",
+      "company": "Wealthsimple",
+      "location": "Remote (Canada)",
+      "url": "https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1",
+      "source": "ashby",
+      "category": "Data and BI",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-06-08",
+      "first_seen": "2026-10-13",
+      "tags": [
+        "data scientist",
+        "remote"
+      ],
+      "summary": "BUILD SOMETHING PEOPLE LOVE Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently..."
     },
     {
       "job_id": "e5d43dc7ca39",
