@@ -1,35 +1,31 @@
 {
-  "generated_at": "2026-10-13 18:18",
+  "generated_at": "2026-10-14 15:49",
   "totals": {
-    "active_jobs": 18,
-    "explicitly_junior": 2,
+    "active_jobs": 16,
+    "explicitly_junior": 1,
     "added": 1,
-    "removed": 0,
+    "removed": 3,
     "changed": 0,
-    "unchanged": 17
+    "unchanged": 15
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 13
+      "jobs": 12
     },
     {
       "source": "greenhouse",
-      "jobs": 5
+      "jobs": 4
     }
   ],
   "top_companies": [
-    {
-      "company": "Cohere",
-      "jobs": 5
-    },
     {
       "company": "1Password",
       "jobs": 4
     },
     {
-      "company": "D2L",
-      "jobs": 2
+      "company": "Cohere",
+      "jobs": 4
     },
     {
       "company": "Faire",
@@ -38,6 +34,10 @@
     {
       "company": "Wealthsimple",
       "jobs": 2
+    },
+    {
+      "company": "D2L",
+      "jobs": 1
     },
     {
       "company": "Float",
@@ -55,7 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 12
+      "jobs": 9
     },
     {
       "category": "Backend",
@@ -68,6 +68,10 @@
     {
       "category": "Data and BI",
       "jobs": 2
+    },
+    {
+      "category": "Frontend",
+      "jobs": 1
     }
   ],
   "top_locations": [
@@ -76,11 +80,11 @@
       "jobs": 4
     },
     {
-      "location": "Toronto",
-      "jobs": 4
+      "location": "Canada",
+      "jobs": 3
     },
     {
-      "location": "Canada",
+      "location": "Toronto",
       "jobs": 3
     },
     {
@@ -90,10 +94,6 @@
     {
       "location": "Remote (Canada)",
       "jobs": 2
-    },
-    {
-      "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
-      "jobs": 1
     },
     {
       "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
@@ -106,14 +106,33 @@
   ],
   "new_jobs": [
     {
-      "job_id": "de39da12c7d5",
-      "title": "Data Scientist, Sales",
-      "company": "Wealthsimple",
-      "location": "Remote (Canada)",
-      "category": "Data and BI",
-      "url": "https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1"
+      "job_id": "d62865bb174f",
+      "title": "Developer, Frontend",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Frontend",
+      "url": "https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241"
     }
   ],
-  "removed_jobs": [],
+  "removed_jobs": [
+    {
+      "job_id": "62bcfe6b26a3",
+      "title": "Developer, Web Extension",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
+    },
+    {
+      "job_id": "71cd9d2389fc",
+      "title": "Software Engineer, Adoption",
+      "company": "Cohere",
+      "location": "Toronto"
+    },
+    {
+      "job_id": "48374df767af",
+      "title": "Software Developer - New Graduate",
+      "company": "D2L",
+      "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada"
+    }
+  ],
   "source_errors": []
 }

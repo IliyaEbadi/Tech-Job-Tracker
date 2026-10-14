@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-13 18:18 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-14 15:49 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,22 +9,26 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 18 |
+| Active postings tracked | 16 |
 | New this run | 1 |
-| Removed / expired this run | 0 |
+| Removed / expired this run | 3 |
 | Updated postings | 0 |
-| Unchanged postings | 17 |
-| Explicitly junior / intern / new-grad titles | 2 |
+| Unchanged postings | 15 |
+| Explicitly junior / intern / new-grad titles | 1 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Data Scientist, Sales](https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1) | Wealthsimple | Remote (Canada) | Data and BI | 2026-06-08 |
+| [Developer, Frontend](https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241) | 1Password | Remote (United States \| Canada) | Frontend | 2026-09-11 |
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| Developer, Web Extension | 1Password | Remote (United States \| Canada) |
+| Software Engineer, Adoption | Cohere | Toronto |
+| Software Developer - New Graduate | D2L | Kitchener, ON, Canada, Toronto, ON... |
 
 ## Updated postings
 
@@ -34,11 +38,11 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
-| Cohere | 5 |
 | 1Password | 4 |
-| D2L | 2 |
+| Cohere | 4 |
 | Faire | 2 |
 | Wealthsimple | 2 |
+| D2L | 1 |
 | Float | 1 |
 | Loopio | 1 |
 | StackAdapt | 1 |
@@ -47,21 +51,21 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 12 |
+| Software Development | 9 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
 | Data and BI | 2 |
+| Frontend | 1 |
 
 ## Top locations
 
 | Location | Postings |
 |---|---|
 | Remote (United States \| Canada) | 4 |
-| Toronto | 4 |
 | Canada | 3 |
+| Toronto | 3 |
 | Kitchener-Waterloo, ON | 2 |
 | Remote (Canada) | 2 |
-| Kitchener, ON, Canada, Toronto, ON... | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Toronto, ON Hub | 1 |
 
@@ -69,8 +73,8 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 13 |
-| greenhouse | 5 |
+| ashby | 12 |
+| greenhouse | 4 |
 
 ---
 
