@@ -3,6 +3,24 @@
   "job_count": 16,
   "jobs": [
     {
+      "job_id": "15ff75060a83",
+      "title": "Data Analyst, Finance Analytics",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/ca3d814c-946a-447a-b41a-0257fcf7e2cd",
+      "source": "ashby",
+      "category": "Data and BI",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "tags": [
+        "data analyst",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
       "job_id": "f52bc143dd9f",
       "title": "Developer, Authorization",
       "company": "1Password",
@@ -58,25 +76,6 @@
       "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
-      "job_id": "bd6048f03174",
-      "title": "Developer, Full Stack/iOS",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "url": "https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45",
-      "source": "ashby",
-      "category": "Software Development",
-      "employment_type": "Full-time",
-      "workplace_type": "Remote",
-      "posted_at": "2026-09-08",
-      "first_seen": "2026-09-09",
-      "tags": [
-        "developer",
-        "full stack",
-        "remote"
-      ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
-    },
-    {
       "job_id": "dcbd5885e682",
       "title": "Product Security Engineer, North Security",
       "company": "Cohere",
@@ -92,7 +91,7 @@
         "remote",
         "security engineer"
       ],
-      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+      "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
     },
     {
       "job_id": "6b312b3bf324",
@@ -110,7 +109,7 @@
         "remote",
         "site reliability"
       ],
-      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+      "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
     },
     {
       "job_id": "ce32feb00e09",
@@ -129,7 +128,7 @@
         "remote",
         "software engineer"
       ],
-      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+      "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
     },
     {
       "job_id": "4663d19eb844",
@@ -147,7 +146,7 @@
         "remote",
         "software engineer"
       ],
-      "summary": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+      "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
     },
     {
       "job_id": "00b2f9478d0d",

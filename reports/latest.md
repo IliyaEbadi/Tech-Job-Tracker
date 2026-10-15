@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-14 15:49 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-15 15:35 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -11,7 +11,7 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 |---|---|
 | Active postings tracked | 16 |
 | New this run | 1 |
-| Removed / expired this run | 3 |
+| Removed / expired this run | 1 |
 | Updated postings | 0 |
 | Unchanged postings | 15 |
 | Explicitly junior / intern / new-grad titles | 1 |
@@ -20,15 +20,13 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Developer, Frontend](https://jobs.ashbyhq.com/1password/ec030dda-caff-4579-93ab-c9aa147a0241) | 1Password | Remote (United States \| Canada) | Frontend | 2026-09-11 |
+| [Data Analyst, Finance Analytics](https://jobs.ashbyhq.com/1password/ca3d814c-946a-447a-b41a-0257fcf7e2cd) | 1Password | Remote (United States \| Canada) | Data and BI | 2026-10-14 |
 
 ## Removed or expired since the last run
 
 | Role | Company | Location |
 |---|---|---|
-| Developer, Web Extension | 1Password | Remote (United States \| Canada) |
-| Software Engineer, Adoption | Cohere | Toronto |
-| Software Developer - New Graduate | D2L | Kitchener, ON, Canada, Toronto, ON... |
+| Developer, Full Stack/iOS | 1Password | Remote (United States \| Canada) |
 
 ## Updated postings
 
@@ -51,10 +49,10 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 9 |
+| Software Development | 8 |
+| Data and BI | 3 |
 | Backend | 2 |
 | Cloud and DevOps | 2 |
-| Data and BI | 2 |
 | Frontend | 1 |
 
 ## Top locations
