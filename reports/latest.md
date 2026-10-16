@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-15 15:35 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-16 15:22 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,24 +9,23 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 16 |
-| New this run | 1 |
-| Removed / expired this run | 1 |
+| Active postings tracked | 18 |
+| New this run | 2 |
+| Removed / expired this run | 0 |
 | Updated postings | 0 |
-| Unchanged postings | 15 |
-| Explicitly junior / intern / new-grad titles | 1 |
+| Unchanged postings | 16 |
+| Explicitly junior / intern / new-grad titles | 3 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Data Analyst, Finance Analytics](https://jobs.ashbyhq.com/1password/ca3d814c-946a-447a-b41a-0257fcf7e2cd) | 1Password | Remote (United States \| Canada) | Data and BI | 2026-10-14 |
+| [Junior Developer](https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-15 |
+| [Junior Security Engineer](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e) | 1Password | Remote (United States \| Canada) | Cloud and DevOps | 2026-10-15 |
 
 ## Removed or expired since the last run
 
-| Role | Company | Location |
-|---|---|---|
-| Developer, Full Stack/iOS | 1Password | Remote (United States \| Canada) |
+_None._
 
 ## Updated postings
 
@@ -36,7 +35,7 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
-| 1Password | 4 |
+| 1Password | 6 |
 | Cohere | 4 |
 | Faire | 2 |
 | Wealthsimple | 2 |
@@ -49,17 +48,17 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 8 |
+| Software Development | 9 |
+| Cloud and DevOps | 3 |
 | Data and BI | 3 |
 | Backend | 2 |
-| Cloud and DevOps | 2 |
 | Frontend | 1 |
 
 ## Top locations
 
 | Location | Postings |
 |---|---|
-| Remote (United States \| Canada) | 4 |
+| Remote (United States \| Canada) | 6 |
 | Canada | 3 |
 | Toronto | 3 |
 | Kitchener-Waterloo, ON | 2 |
@@ -71,7 +70,7 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 12 |
+| ashby | 14 |
 | greenhouse | 4 |
 
 ---
