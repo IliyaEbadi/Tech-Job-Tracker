@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 18,
+  "job_count": 19,
   "jobs": [
     {
       "job_id": "15ff75060a83",
@@ -201,6 +201,25 @@
       "tags": [
         "developer",
         "remote",
+        "software developer"
+      ],
+      "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
+    },
+    {
+      "job_id": "6768a6907ecd",
+      "title": "Software Developer - Winter 2027 Co-op - Custom Development Services",
+      "company": "D2L",
+      "location": "Kitchener, ON",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "tags": [
+        "developer",
+        "junior",
         "software developer"
       ],
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."

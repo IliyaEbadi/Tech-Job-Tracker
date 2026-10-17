@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-16 15:22",
+  "generated_at": "2026-10-17 14:12",
   "totals": {
-    "active_jobs": 18,
-    "explicitly_junior": 3,
-    "added": 2,
+    "active_jobs": 19,
+    "explicitly_junior": 4,
+    "added": 1,
     "removed": 0,
     "changed": 0,
-    "unchanged": 16
+    "unchanged": 18
   },
   "by_source": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "source": "greenhouse",
-      "jobs": 4
+      "jobs": 5
     }
   ],
   "top_companies": [
@@ -28,16 +28,16 @@
       "jobs": 4
     },
     {
+      "company": "D2L",
+      "jobs": 2
+    },
+    {
       "company": "Faire",
       "jobs": 2
     },
     {
       "company": "Wealthsimple",
       "jobs": 2
-    },
-    {
-      "company": "D2L",
-      "jobs": 1
     },
     {
       "company": "Float",
@@ -55,7 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 9
+      "jobs": 10
     },
     {
       "category": "Cloud and DevOps",
@@ -96,6 +96,10 @@
       "jobs": 2
     },
     {
+      "location": "Kitchener, ON",
+      "jobs": 1
+    },
+    {
       "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
       "jobs": 1
     },
@@ -106,20 +110,12 @@
   ],
   "new_jobs": [
     {
-      "job_id": "795919f166e3",
-      "title": "Junior Developer",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
+      "job_id": "6768a6907ecd",
+      "title": "Software Developer - Winter 2027 Co-op - Custom Development Services",
+      "company": "D2L",
+      "location": "Kitchener, ON",
       "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e"
-    },
-    {
-      "job_id": "2bed988749d9",
-      "title": "Junior Security Engineer",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Cloud and DevOps",
-      "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e"
+      "url": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767"
     }
   ],
   "removed_jobs": [],
