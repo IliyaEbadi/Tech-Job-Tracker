@@ -1,35 +1,31 @@
 {
-  "generated_at": "2026-10-17 14:12",
+  "generated_at": "2026-10-19 17:28",
   "totals": {
-    "active_jobs": 19,
-    "explicitly_junior": 4,
-    "added": 1,
-    "removed": 0,
+    "active_jobs": 15,
+    "explicitly_junior": 1,
+    "added": 0,
+    "removed": 4,
     "changed": 0,
-    "unchanged": 18
+    "unchanged": 15
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 14
+      "jobs": 11
     },
     {
       "source": "greenhouse",
-      "jobs": 5
+      "jobs": 4
     }
   ],
   "top_companies": [
-    {
-      "company": "1Password",
-      "jobs": 6
-    },
     {
       "company": "Cohere",
       "jobs": 4
     },
     {
-      "company": "D2L",
-      "jobs": 2
+      "company": "1Password",
+      "jobs": 3
     },
     {
       "company": "Faire",
@@ -38,6 +34,10 @@
     {
       "company": "Wealthsimple",
       "jobs": 2
+    },
+    {
+      "company": "D2L",
+      "jobs": 1
     },
     {
       "company": "Float",
@@ -55,11 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 10
-    },
-    {
-      "category": "Cloud and DevOps",
-      "jobs": 3
+      "jobs": 7
     },
     {
       "category": "Data and BI",
@@ -70,17 +66,21 @@
       "jobs": 2
     },
     {
+      "category": "Cloud and DevOps",
+      "jobs": 2
+    },
+    {
       "category": "Frontend",
       "jobs": 1
     }
   ],
   "top_locations": [
     {
-      "location": "Remote (United States | Canada)",
-      "jobs": 6
+      "location": "Canada",
+      "jobs": 3
     },
     {
-      "location": "Canada",
+      "location": "Remote (United States | Canada)",
       "jobs": 3
     },
     {
@@ -96,10 +96,6 @@
       "jobs": 2
     },
     {
-      "location": "Kitchener, ON",
-      "jobs": 1
-    },
-    {
       "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
       "jobs": 1
     },
@@ -108,16 +104,32 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [
+  "new_jobs": [],
+  "removed_jobs": [
+    {
+      "job_id": "f52bc143dd9f",
+      "title": "Developer, Authorization",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
+    },
+    {
+      "job_id": "795919f166e3",
+      "title": "Junior Developer",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
+    },
+    {
+      "job_id": "2bed988749d9",
+      "title": "Junior Security Engineer",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
+    },
     {
       "job_id": "6768a6907ecd",
       "title": "Software Developer - Winter 2027 Co-op - Custom Development Services",
       "company": "D2L",
-      "location": "Kitchener, ON",
-      "category": "Software Development",
-      "url": "https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767"
+      "location": "Kitchener, ON"
     }
   ],
-  "removed_jobs": [],
   "source_errors": []
 }

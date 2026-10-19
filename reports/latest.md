@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-17 14:12 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-19 17:28 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,22 +9,25 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 19 |
-| New this run | 1 |
-| Removed / expired this run | 0 |
+| Active postings tracked | 15 |
+| New this run | 0 |
+| Removed / expired this run | 4 |
 | Updated postings | 0 |
-| Unchanged postings | 18 |
-| Explicitly junior / intern / new-grad titles | 4 |
+| Unchanged postings | 15 |
+| Explicitly junior / intern / new-grad titles | 1 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Software Developer - Winter 2027 Co-op - Custom Development Services](https://www.d2l.com/careers/jobs/?job_id=8289767&gh_jid=8289767) | D2L | Kitchener, ON | Software Development | 2026-10-16 |
+_None._
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| Developer, Authorization | 1Password | Remote (United States \| Canada) |
+| Junior Developer | 1Password | Remote (United States \| Canada) |
+| Junior Security Engineer | 1Password | Remote (United States \| Canada) |
+| Software Developer - Winter 2027 Co-op - Custom Development Services | D2L | Kitchener, ON |
 
 ## Updated postings
 
@@ -34,11 +37,11 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
-| 1Password | 6 |
 | Cohere | 4 |
-| D2L | 2 |
+| 1Password | 3 |
 | Faire | 2 |
 | Wealthsimple | 2 |
+| D2L | 1 |
 | Float | 1 |
 | Loopio | 1 |
 | StackAdapt | 1 |
@@ -47,22 +50,21 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 10 |
-| Cloud and DevOps | 3 |
+| Software Development | 7 |
 | Data and BI | 3 |
 | Backend | 2 |
+| Cloud and DevOps | 2 |
 | Frontend | 1 |
 
 ## Top locations
 
 | Location | Postings |
 |---|---|
-| Remote (United States \| Canada) | 6 |
 | Canada | 3 |
+| Remote (United States \| Canada) | 3 |
 | Toronto | 3 |
 | Kitchener-Waterloo, ON | 2 |
 | Remote (Canada) | 2 |
-| Kitchener, ON | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Toronto, ON Hub | 1 |
 
@@ -70,8 +72,8 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 14 |
-| greenhouse | 5 |
+| ashby | 11 |
+| greenhouse | 4 |
 
 ---
 
