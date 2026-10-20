@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19 17:28",
+  "generated_at": "2026-10-20 15:38",
   "totals": {
-    "active_jobs": 15,
-    "explicitly_junior": 1,
-    "added": 0,
-    "removed": 4,
+    "active_jobs": 16,
+    "explicitly_junior": 2,
+    "added": 2,
+    "removed": 1,
     "changed": 0,
-    "unchanged": 15
+    "unchanged": 14
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 11
+      "jobs": 12
     },
     {
       "source": "greenhouse",
@@ -20,12 +20,12 @@
   ],
   "top_companies": [
     {
-      "company": "Cohere",
+      "company": "1Password",
       "jobs": 4
     },
     {
-      "company": "1Password",
-      "jobs": 3
+      "company": "Cohere",
+      "jobs": 4
     },
     {
       "company": "Faire",
@@ -55,10 +55,10 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 7
+      "jobs": 8
     },
     {
-      "category": "Data and BI",
+      "category": "Cloud and DevOps",
       "jobs": 3
     },
     {
@@ -66,7 +66,7 @@
       "jobs": 2
     },
     {
-      "category": "Cloud and DevOps",
+      "category": "Data and BI",
       "jobs": 2
     },
     {
@@ -76,11 +76,11 @@
   ],
   "top_locations": [
     {
-      "location": "Canada",
-      "jobs": 3
+      "location": "Remote (United States | Canada)",
+      "jobs": 4
     },
     {
-      "location": "Remote (United States | Canada)",
+      "location": "Canada",
       "jobs": 3
     },
     {
@@ -104,31 +104,30 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [],
-  "removed_jobs": [
+  "new_jobs": [
     {
-      "job_id": "f52bc143dd9f",
-      "title": "Developer, Authorization",
+      "job_id": "c78743ac8938",
+      "title": "Developer, Device Trust Reliability",
       "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "795919f166e3",
-      "title": "Junior Developer",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/443f9ef6-13a7-4edb-ace5-16be7e630041"
     },
     {
       "job_id": "2bed988749d9",
       "title": "Junior Security Engineer",
       "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
+      "location": "Remote (United States | Canada)",
+      "category": "Cloud and DevOps",
+      "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e"
+    }
+  ],
+  "removed_jobs": [
     {
-      "job_id": "6768a6907ecd",
-      "title": "Software Developer - Winter 2027 Co-op - Custom Development Services",
-      "company": "D2L",
-      "location": "Kitchener, ON"
+      "job_id": "15ff75060a83",
+      "title": "Data Analyst, Finance Analytics",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
     }
   ],
   "source_errors": []

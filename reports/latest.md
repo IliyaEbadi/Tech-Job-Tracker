@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-19 17:28 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-20 15:38 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,25 +9,25 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 15 |
-| New this run | 0 |
-| Removed / expired this run | 4 |
+| Active postings tracked | 16 |
+| New this run | 2 |
+| Removed / expired this run | 1 |
 | Updated postings | 0 |
-| Unchanged postings | 15 |
-| Explicitly junior / intern / new-grad titles | 1 |
+| Unchanged postings | 14 |
+| Explicitly junior / intern / new-grad titles | 2 |
 
 ## New this run
 
-_None._
+| Role | Company | Location | Category | Posted |
+|---|---|---|---|---|
+| [Developer, Device Trust Reliability](https://jobs.ashbyhq.com/1password/443f9ef6-13a7-4edb-ace5-16be7e630041) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-20 |
+| [Junior Security Engineer](https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e) | 1Password | Remote (United States \| Canada) | Cloud and DevOps | 2026-10-20 |
 
 ## Removed or expired since the last run
 
 | Role | Company | Location |
 |---|---|---|
-| Developer, Authorization | 1Password | Remote (United States \| Canada) |
-| Junior Developer | 1Password | Remote (United States \| Canada) |
-| Junior Security Engineer | 1Password | Remote (United States \| Canada) |
-| Software Developer - Winter 2027 Co-op - Custom Development Services | D2L | Kitchener, ON |
+| Data Analyst, Finance Analytics | 1Password | Remote (United States \| Canada) |
 
 ## Updated postings
 
@@ -37,8 +37,8 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
+| 1Password | 4 |
 | Cohere | 4 |
-| 1Password | 3 |
 | Faire | 2 |
 | Wealthsimple | 2 |
 | D2L | 1 |
@@ -50,18 +50,18 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 7 |
-| Data and BI | 3 |
+| Software Development | 8 |
+| Cloud and DevOps | 3 |
 | Backend | 2 |
-| Cloud and DevOps | 2 |
+| Data and BI | 2 |
 | Frontend | 1 |
 
 ## Top locations
 
 | Location | Postings |
 |---|---|
+| Remote (United States \| Canada) | 4 |
 | Canada | 3 |
-| Remote (United States \| Canada) | 3 |
 | Toronto | 3 |
 | Kitchener-Waterloo, ON | 2 |
 | Remote (Canada) | 2 |
@@ -72,7 +72,7 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 11 |
+| ashby | 12 |
 | greenhouse | 4 |
 
 ---

@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "job_count": 15,
+  "job_count": 16,
   "jobs": [
     {
-      "job_id": "15ff75060a83",
-      "title": "Data Analyst, Finance Analytics",
+      "job_id": "c78743ac8938",
+      "title": "Developer, Device Trust Reliability",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
-      "url": "https://jobs.ashbyhq.com/1password/ca3d814c-946a-447a-b41a-0257fcf7e2cd",
+      "url": "https://jobs.ashbyhq.com/1password/443f9ef6-13a7-4edb-ace5-16be7e630041",
       "source": "ashby",
-      "category": "Data and BI",
+      "category": "Software Development",
       "employment_type": "Full-time",
       "workplace_type": "Remote",
-      "posted_at": "2026-10-14",
-      "first_seen": "2026-10-15",
+      "posted_at": "2026-10-20",
+      "first_seen": "2026-10-20",
       "tags": [
-        "data analyst",
+        "developer",
         "remote"
       ],
       "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
@@ -54,6 +54,25 @@
         "developer",
         "frontend",
         "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "2bed988749d9",
+      "title": "Junior Security Engineer",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+      "source": "ashby",
+      "category": "Cloud and DevOps",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "tags": [
+        "junior",
+        "remote",
+        "security engineer"
       ],
       "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
