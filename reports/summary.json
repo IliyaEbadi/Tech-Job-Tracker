@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-20 15:38",
+  "generated_at": "2026-10-21 15:57",
   "totals": {
-    "active_jobs": 16,
+    "active_jobs": 19,
     "explicitly_junior": 2,
-    "added": 2,
-    "removed": 1,
+    "added": 3,
+    "removed": 0,
     "changed": 0,
-    "unchanged": 14
+    "unchanged": 16
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 12
+      "jobs": 13
     },
     {
       "source": "greenhouse",
-      "jobs": 4
+      "jobs": 6
     }
   ],
   "top_companies": [
     {
       "company": "1Password",
-      "jobs": 4
+      "jobs": 5
     },
     {
       "company": "Cohere",
@@ -29,6 +29,10 @@
     },
     {
       "company": "Faire",
+      "jobs": 2
+    },
+    {
+      "company": "Geotab",
       "jobs": 2
     },
     {
@@ -55,7 +59,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 8
+      "jobs": 10
     },
     {
       "category": "Cloud and DevOps",
@@ -71,13 +75,13 @@
     },
     {
       "category": "Frontend",
-      "jobs": 1
+      "jobs": 2
     }
   ],
   "top_locations": [
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 4
+      "jobs": 5
     },
     {
       "location": "Canada",
@@ -89,6 +93,10 @@
     },
     {
       "location": "Kitchener-Waterloo, ON",
+      "jobs": 2
+    },
+    {
+      "location": "Oakville, Ontario - Canada",
       "jobs": 2
     },
     {
@@ -106,29 +114,30 @@
   ],
   "new_jobs": [
     {
-      "job_id": "c78743ac8938",
-      "title": "Developer, Device Trust Reliability",
+      "job_id": "590c90e9034b",
+      "title": "Frontend Developer, Device Security",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/443f9ef6-13a7-4edb-ace5-16be7e630041"
+      "category": "Frontend",
+      "url": "https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb"
     },
     {
-      "job_id": "2bed988749d9",
-      "title": "Junior Security Engineer",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Cloud and DevOps",
-      "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e"
-    }
-  ],
-  "removed_jobs": [
+      "job_id": "f9c1b5d23835",
+      "title": "AI Solutions Developer (Remote)",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5453886008"
+    },
     {
-      "job_id": "15ff75060a83",
-      "title": "Data Analyst, Finance Analytics",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
+      "job_id": "adc615bc2e82",
+      "title": "Software Developer",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5418735008"
     }
   ],
+  "removed_jobs": [],
   "source_errors": []
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 16,
+  "job_count": 19,
   "jobs": [
     {
       "job_id": "c78743ac8938",
@@ -50,6 +50,25 @@
       "workplace_type": "Remote",
       "posted_at": "2026-09-11",
       "first_seen": "2026-10-14",
+      "tags": [
+        "developer",
+        "frontend",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "590c90e9034b",
+      "title": "Frontend Developer, Device Security",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
+      "source": "ashby",
+      "category": "Frontend",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-20",
+      "first_seen": "2026-10-21",
       "tags": [
         "developer",
         "frontend",
@@ -222,6 +241,41 @@
         "remote"
       ],
       "summary": "This posting reflects a current, actively recruited opening at Float. All applications are being reviewed on a rolling basis. ABOUT FLOAT Float is on a mission to simplify finance for Canadian businesses, empowering them to eliminate complexity and unlock new opportunities..."
+    },
+    {
+      "job_id": "f9c1b5d23835",
+      "title": "AI Solutions Developer (Remote)",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5453886008",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "tags": [
+        "developer"
+      ],
+      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
+    },
+    {
+      "job_id": "adc615bc2e82",
+      "title": "Software Developer",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5418735008",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "tags": [
+        "developer",
+        "software developer"
+      ],
+      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
     },
     {
       "job_id": "22eaf1254332",
