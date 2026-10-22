@@ -1,38 +1,34 @@
 {
-  "generated_at": "2026-10-21 15:57",
+  "generated_at": "2026-10-22 15:52",
   "totals": {
-    "active_jobs": 19,
-    "explicitly_junior": 2,
-    "added": 3,
-    "removed": 0,
+    "active_jobs": 23,
+    "explicitly_junior": 7,
+    "added": 6,
+    "removed": 2,
     "changed": 0,
-    "unchanged": 16
+    "unchanged": 17
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 13
+      "jobs": 18
     },
     {
       "source": "greenhouse",
-      "jobs": 6
+      "jobs": 5
     }
   ],
   "top_companies": [
     {
       "company": "1Password",
-      "jobs": 5
+      "jobs": 10
     },
     {
       "company": "Cohere",
       "jobs": 4
     },
     {
-      "company": "Faire",
-      "jobs": 2
-    },
-    {
-      "company": "Geotab",
+      "company": "StackAdapt",
       "jobs": 2
     },
     {
@@ -44,60 +40,56 @@
       "jobs": 1
     },
     {
+      "company": "Faire",
+      "jobs": 1
+    },
+    {
       "company": "Float",
       "jobs": 1
     },
     {
-      "company": "Loopio",
+      "company": "Geotab",
       "jobs": 1
     },
     {
-      "company": "StackAdapt",
+      "company": "Loopio",
       "jobs": 1
     }
   ],
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 10
+      "jobs": 14
     },
     {
       "category": "Cloud and DevOps",
       "jobs": 3
     },
     {
-      "category": "Backend",
-      "jobs": 2
+      "category": "Frontend",
+      "jobs": 3
     },
     {
       "category": "Data and BI",
       "jobs": 2
     },
     {
-      "category": "Frontend",
-      "jobs": 2
+      "category": "Backend",
+      "jobs": 1
     }
   ],
   "top_locations": [
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 5
+      "jobs": 10
     },
     {
       "location": "Canada",
-      "jobs": 3
+      "jobs": 4
     },
     {
       "location": "Toronto",
       "jobs": 3
-    },
-    {
-      "location": "Kitchener-Waterloo, ON",
-      "jobs": 2
-    },
-    {
-      "location": "Oakville, Ontario - Canada",
-      "jobs": 2
     },
     {
       "location": "Remote (Canada)",
@@ -108,36 +100,81 @@
       "jobs": 1
     },
     {
+      "location": "Kitchener-Waterloo, ON",
+      "jobs": 1
+    },
+    {
+      "location": "Oakville, Ontario - Canada",
+      "jobs": 1
+    },
+    {
       "location": "Toronto, ON Hub",
       "jobs": 1
     }
   ],
   "new_jobs": [
     {
-      "job_id": "590c90e9034b",
-      "title": "Frontend Developer, Device Security",
+      "job_id": "194dcaf251cd",
+      "title": "Developer Intern, Data Security - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1"
+    },
+    {
+      "job_id": "983e479b9c82",
+      "title": "Developer Intern, Front-End Platform - Winter 2027",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
       "category": "Frontend",
-      "url": "https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb"
+      "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37"
     },
     {
-      "job_id": "f9c1b5d23835",
-      "title": "AI Solutions Developer (Remote)",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada",
+      "job_id": "b4d5d2a69c5d",
+      "title": "Developer Intern, Machine Identity - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
       "category": "Software Development",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5453886008"
+      "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f"
+    },
+    {
+      "job_id": "fb184d646c4f",
+      "title": "Developer Intern, Provisioning - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9"
+    },
+    {
+      "job_id": "343e40fe65a1",
+      "title": "Developer Intern, Vault Team - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779"
+    },
+    {
+      "job_id": "68883c585886",
+      "title": "Full Stack Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009"
+    }
+  ],
+  "removed_jobs": [
+    {
+      "job_id": "552e5a77709b",
+      "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
+      "company": "Faire",
+      "location": "Kitchener-Waterloo, ON"
     },
     {
       "job_id": "adc615bc2e82",
       "title": "Software Developer",
       "company": "Geotab",
-      "location": "Oakville, Ontario - Canada",
-      "category": "Software Development",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5418735008"
+      "location": "Oakville, Ontario - Canada"
     }
   ],
-  "removed_jobs": [],
   "source_errors": []
 }

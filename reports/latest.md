@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-21 15:57 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-22 15:52 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,24 +9,30 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 19 |
-| New this run | 3 |
-| Removed / expired this run | 0 |
+| Active postings tracked | 23 |
+| New this run | 6 |
+| Removed / expired this run | 2 |
 | Updated postings | 0 |
-| Unchanged postings | 16 |
-| Explicitly junior / intern / new-grad titles | 2 |
+| Unchanged postings | 17 |
+| Explicitly junior / intern / new-grad titles | 7 |
 
 ## New this run
 
 | Role | Company | Location | Category | Posted |
 |---|---|---|---|---|
-| [Frontend Developer, Device Security](https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb) | 1Password | Remote (United States \| Canada) | Frontend | 2026-10-20 |
-| [AI Solutions Developer (Remote)](https://job-boards.greenhouse.io/geotab/jobs/5453886008) | Geotab | Oakville, Ontario - Canada | Software Development | 2026-10-20 |
-| [Software Developer](https://job-boards.greenhouse.io/geotab/jobs/5418735008) | Geotab | Oakville, Ontario - Canada | Software Development | 2026-10-20 |
+| [Developer Intern, Data Security - Winter 2027](https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-22 |
+| [Developer Intern, Front-End Platform - Winter 2027](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37) | 1Password | Remote (United States \| Canada) | Frontend | 2026-10-22 |
+| [Developer Intern, Machine Identity - Winter 2027](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-22 |
+| [Developer Intern, Provisioning - Winter 2027](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-22 |
+| [Developer Intern, Vault Team - Winter 2027](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-22 |
+| [Full Stack Engineer](https://job-boards.greenhouse.io/stackadapt/jobs/4261506009) | StackAdapt | Canada | Software Development | 2026-06-03 |
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend | Faire | Kitchener-Waterloo, ON |
+| Software Developer | Geotab | Oakville, Ontario - Canada |
 
 ## Updated postings
 
@@ -36,45 +42,45 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
-| 1Password | 5 |
+| 1Password | 10 |
 | Cohere | 4 |
-| Faire | 2 |
-| Geotab | 2 |
+| StackAdapt | 2 |
 | Wealthsimple | 2 |
 | D2L | 1 |
+| Faire | 1 |
 | Float | 1 |
+| Geotab | 1 |
 | Loopio | 1 |
-| StackAdapt | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 10 |
+| Software Development | 14 |
 | Cloud and DevOps | 3 |
-| Backend | 2 |
+| Frontend | 3 |
 | Data and BI | 2 |
-| Frontend | 2 |
+| Backend | 1 |
 
 ## Top locations
 
 | Location | Postings |
 |---|---|
-| Remote (United States \| Canada) | 5 |
-| Canada | 3 |
+| Remote (United States \| Canada) | 10 |
+| Canada | 4 |
 | Toronto | 3 |
-| Kitchener-Waterloo, ON | 2 |
-| Oakville, Ontario - Canada | 2 |
 | Remote (Canada) | 2 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
+| Kitchener-Waterloo, ON | 1 |
+| Oakville, Ontario - Canada | 1 |
 | Toronto, ON Hub | 1 |
 
 ## Sources
 
 | Source | Postings kept |
 |---|---|
-| ashby | 13 |
-| greenhouse | 6 |
+| ashby | 18 |
+| greenhouse | 5 |
 
 ---
 

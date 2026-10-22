@@ -1,7 +1,103 @@
 {
   "schema_version": 1,
-  "job_count": 19,
+  "job_count": 23,
   "jobs": [
+    {
+      "job_id": "194dcaf251cd",
+      "title": "Developer Intern, Data Security - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "983e479b9c82",
+      "title": "Developer Intern, Front-End Platform - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+      "source": "ashby",
+      "category": "Frontend",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "tags": [
+        "developer",
+        "front-end",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "b4d5d2a69c5d",
+      "title": "Developer Intern, Machine Identity - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "fb184d646c4f",
+      "title": "Developer Intern, Provisioning - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "343e40fe65a1",
+      "title": "Developer Intern, Vault Team - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
     {
       "job_id": "c78743ac8938",
       "title": "Developer, Device Trust Reliability",
@@ -206,25 +302,6 @@
       "summary": "About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're..."
     },
     {
-      "job_id": "552e5a77709b",
-      "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
-      "company": "Faire",
-      "location": "Kitchener-Waterloo, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002",
-      "source": "greenhouse",
-      "category": "Backend",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-06-22",
-      "first_seen": "2026-09-04",
-      "tags": [
-        "backend",
-        "frontend",
-        "software engineer"
-      ],
-      "summary": "About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically been fragmented and offline. At Faire, we're..."
-    },
-    {
       "job_id": "1911923c9b23",
       "title": "Full Stack Development (Remote - Canada)",
       "company": "Float",
@@ -260,24 +337,6 @@
       "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
     },
     {
-      "job_id": "adc615bc2e82",
-      "title": "Software Developer",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5418735008",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "tags": [
-        "developer",
-        "software developer"
-      ],
-      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
-    },
-    {
       "job_id": "22eaf1254332",
       "title": "Data Engineer",
       "company": "Loopio",
@@ -294,6 +353,23 @@
         "remote"
       ],
       "summary": "TAKE YOUR CAREER TO NEW HEIGHTS WITH LOOPIO! 🚀✨ Loopio’s Data Engineering Team works together on a mission to transform the RFP response process into a rapid and seamless experience. Our team works across all platform portfolio features and delivers innovative solutions where it..."
+    },
+    {
+      "job_id": "68883c585886",
+      "title": "Full Stack Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-06-03",
+      "first_seen": "2026-10-22",
+      "tags": [
+        "full stack"
+      ],
+      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },
     {
       "job_id": "c9465c9e6983",
