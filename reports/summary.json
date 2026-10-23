@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-22 15:52",
+  "generated_at": "2026-10-23 15:44",
   "totals": {
-    "active_jobs": 23,
-    "explicitly_junior": 7,
-    "added": 6,
-    "removed": 2,
+    "active_jobs": 27,
+    "explicitly_junior": 11,
+    "added": 4,
+    "removed": 0,
     "changed": 0,
-    "unchanged": 17
+    "unchanged": 23
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 18
+      "jobs": 22
     },
     {
       "source": "greenhouse",
@@ -21,7 +21,7 @@
   "top_companies": [
     {
       "company": "1Password",
-      "jobs": 10
+      "jobs": 14
     },
     {
       "company": "Cohere",
@@ -59,7 +59,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 14
+      "jobs": 17
     },
     {
       "category": "Cloud and DevOps",
@@ -76,12 +76,16 @@
     {
       "category": "Backend",
       "jobs": 1
+    },
+    {
+      "category": "Support and Operations",
+      "jobs": 1
     }
   ],
   "top_locations": [
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 10
+      "jobs": 14
     },
     {
       "location": "Canada",
@@ -114,67 +118,38 @@
   ],
   "new_jobs": [
     {
-      "job_id": "194dcaf251cd",
-      "title": "Developer Intern, Data Security - Winter 2027",
+      "job_id": "caa8d8f5dd5d",
+      "title": "Developer Intern, Credential Brokering - Winter 2027",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
       "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1"
+      "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba"
     },
     {
-      "job_id": "983e479b9c82",
-      "title": "Developer Intern, Front-End Platform - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Frontend",
-      "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37"
-    },
-    {
-      "job_id": "b4d5d2a69c5d",
-      "title": "Developer Intern, Machine Identity - Winter 2027",
+      "job_id": "6305e06b15d6",
+      "title": "Developer Intern, Developer Interfaces - Winter 2027",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
       "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f"
+      "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39"
     },
     {
-      "job_id": "fb184d646c4f",
-      "title": "Developer Intern, Provisioning - Winter 2027",
+      "job_id": "41780b29174b",
+      "title": "Developer Intern, Extension Excellence - Winter 2027",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
       "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9"
+      "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491"
     },
     {
-      "job_id": "343e40fe65a1",
-      "title": "Developer Intern, Vault Team - Winter 2027",
+      "job_id": "c09af2aa4214",
+      "title": "IT Intern, IT Support - Winter 2027",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779"
-    },
-    {
-      "job_id": "68883c585886",
-      "title": "Full Stack Engineer",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "category": "Software Development",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009"
+      "category": "Support and Operations",
+      "url": "https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7"
     }
   ],
-  "removed_jobs": [
-    {
-      "job_id": "552e5a77709b",
-      "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
-      "company": "Faire",
-      "location": "Kitchener-Waterloo, ON"
-    },
-    {
-      "job_id": "adc615bc2e82",
-      "title": "Software Developer",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada"
-    }
-  ],
+  "removed_jobs": [],
   "source_errors": []
 }

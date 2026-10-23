@@ -1,7 +1,26 @@
 {
   "schema_version": 1,
-  "job_count": 23,
+  "job_count": 27,
   "jobs": [
+    {
+      "job_id": "caa8d8f5dd5d",
+      "title": "Developer Intern, Credential Brokering - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
     {
       "job_id": "194dcaf251cd",
       "title": "Developer Intern, Data Security - Winter 2027",
@@ -19,7 +38,45 @@
         "junior",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "6305e06b15d6",
+      "title": "Developer Intern, Developer Interfaces - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "41780b29174b",
+      "title": "Developer Intern, Extension Excellence - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+      "source": "ashby",
+      "category": "Software Development",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "tags": [
+        "developer",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "983e479b9c82",
@@ -39,7 +96,7 @@
         "junior",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "b4d5d2a69c5d",
@@ -58,7 +115,7 @@
         "junior",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "fb184d646c4f",
@@ -77,7 +134,7 @@
         "junior",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "343e40fe65a1",
@@ -96,7 +153,7 @@
         "junior",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "c78743ac8938",
@@ -114,7 +171,7 @@
         "developer",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "e9621a13eef3",
@@ -132,7 +189,7 @@
         "developer",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "d62865bb174f",
@@ -151,7 +208,7 @@
         "frontend",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "590c90e9034b",
@@ -170,7 +227,26 @@
         "frontend",
         "remote"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "c09af2aa4214",
+      "title": "IT Intern, IT Support - Winter 2027",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7",
+      "source": "ashby",
+      "category": "Support and Operations",
+      "employment_type": "Internship",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "tags": [
+        "it support",
+        "junior",
+        "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "2bed988749d9",
@@ -189,7 +265,7 @@
         "remote",
         "security engineer"
       ],
-      "summary": "1Password is growing. We’ve surpassed $400M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
       "job_id": "dcbd5885e682",
