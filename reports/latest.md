@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-23 15:44 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-27 16:37 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,25 +9,22 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 27 |
-| New this run | 4 |
-| Removed / expired this run | 0 |
+| Active postings tracked | 26 |
+| New this run | 0 |
+| Removed / expired this run | 1 |
 | Updated postings | 0 |
-| Unchanged postings | 23 |
+| Unchanged postings | 26 |
 | Explicitly junior / intern / new-grad titles | 11 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Developer Intern, Credential Brokering - Winter 2027](https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-23 |
-| [Developer Intern, Developer Interfaces - Winter 2027](https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-23 |
-| [Developer Intern, Extension Excellence - Winter 2027](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-22 |
-| [IT Intern, IT Support - Winter 2027](https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7) | 1Password | Remote (United States \| Canada) | Support and Operations | 2026-10-23 |
+_None._
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| AI Solutions Developer (Remote) | Geotab | Oakville, Ontario - Canada |
 
 ## Updated postings
 
@@ -44,14 +41,13 @@ _None._
 | D2L | 1 |
 | Faire | 1 |
 | Float | 1 |
-| Geotab | 1 |
 | Loopio | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 17 |
+| Software Development | 16 |
 | Cloud and DevOps | 3 |
 | Frontend | 3 |
 | Data and BI | 2 |
@@ -68,7 +64,6 @@ _None._
 | Remote (Canada) | 2 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Kitchener-Waterloo, ON | 1 |
-| Oakville, Ontario - Canada | 1 |
 | Toronto, ON Hub | 1 |
 
 ## Sources
@@ -76,7 +71,7 @@ _None._
 | Source | Postings kept |
 |---|---|
 | ashby | 22 |
-| greenhouse | 5 |
+| greenhouse | 4 |
 
 ---
 

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23 15:44",
+  "generated_at": "2026-10-27 16:37",
   "totals": {
-    "active_jobs": 27,
+    "active_jobs": 26,
     "explicitly_junior": 11,
-    "added": 4,
-    "removed": 0,
+    "added": 0,
+    "removed": 1,
     "changed": 0,
-    "unchanged": 23
+    "unchanged": 26
   },
   "by_source": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "source": "greenhouse",
-      "jobs": 5
+      "jobs": 4
     }
   ],
   "top_companies": [
@@ -48,10 +48,6 @@
       "jobs": 1
     },
     {
-      "company": "Geotab",
-      "jobs": 1
-    },
-    {
       "company": "Loopio",
       "jobs": 1
     }
@@ -59,7 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 17
+      "jobs": 16
     },
     {
       "category": "Cloud and DevOps",
@@ -108,48 +104,18 @@
       "jobs": 1
     },
     {
-      "location": "Oakville, Ontario - Canada",
-      "jobs": 1
-    },
-    {
       "location": "Toronto, ON Hub",
       "jobs": 1
     }
   ],
-  "new_jobs": [
+  "new_jobs": [],
+  "removed_jobs": [
     {
-      "job_id": "caa8d8f5dd5d",
-      "title": "Developer Intern, Credential Brokering - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba"
-    },
-    {
-      "job_id": "6305e06b15d6",
-      "title": "Developer Intern, Developer Interfaces - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39"
-    },
-    {
-      "job_id": "41780b29174b",
-      "title": "Developer Intern, Extension Excellence - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491"
-    },
-    {
-      "job_id": "c09af2aa4214",
-      "title": "IT Intern, IT Support - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Support and Operations",
-      "url": "https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7"
+      "job_id": "f9c1b5d23835",
+      "title": "AI Solutions Developer (Remote)",
+      "company": "Geotab",
+      "location": "Oakville, Ontario - Canada"
     }
   ],
-  "removed_jobs": [],
   "source_errors": []
 }

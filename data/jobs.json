@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 27,
+  "job_count": 26,
   "jobs": [
     {
       "job_id": "caa8d8f5dd5d",
@@ -394,23 +394,6 @@
         "remote"
       ],
       "summary": "This posting reflects a current, actively recruited opening at Float. All applications are being reviewed on a rolling basis. ABOUT FLOAT Float is on a mission to simplify finance for Canadian businesses, empowering them to eliminate complexity and unlock new opportunities..."
-    },
-    {
-      "job_id": "f9c1b5d23835",
-      "title": "AI Solutions Developer (Remote)",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada",
-      "url": "https://job-boards.greenhouse.io/geotab/jobs/5453886008",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-10-20",
-      "first_seen": "2026-10-21",
-      "tags": [
-        "developer"
-      ],
-      "summary": "Who we are: Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our..."
     },
     {
       "job_id": "22eaf1254332",
