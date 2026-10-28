@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-10-27 16:37",
+  "generated_at": "2026-10-28 17:09",
   "totals": {
-    "active_jobs": 26,
+    "active_jobs": 28,
     "explicitly_junior": 11,
-    "added": 0,
+    "added": 3,
     "removed": 1,
     "changed": 0,
-    "unchanged": 26
+    "unchanged": 25
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 22
+      "jobs": 23
     },
     {
       "source": "greenhouse",
-      "jobs": 4
+      "jobs": 5
     }
   ],
   "top_companies": [
@@ -25,11 +25,11 @@
     },
     {
       "company": "Cohere",
-      "jobs": 4
+      "jobs": 5
     },
     {
       "company": "StackAdapt",
-      "jobs": 2
+      "jobs": 3
     },
     {
       "company": "Wealthsimple",
@@ -55,14 +55,14 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 16
-    },
-    {
-      "category": "Cloud and DevOps",
-      "jobs": 3
+      "jobs": 17
     },
     {
       "category": "Frontend",
+      "jobs": 4
+    },
+    {
+      "category": "Cloud and DevOps",
       "jobs": 3
     },
     {
@@ -85,11 +85,11 @@
     },
     {
       "location": "Canada",
-      "jobs": 4
+      "jobs": 5
     },
     {
       "location": "Toronto",
-      "jobs": 3
+      "jobs": 4
     },
     {
       "location": "Remote (Canada)",
@@ -108,13 +108,38 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "795919f166e3",
+      "title": "Junior Developer",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e"
+    },
+    {
+      "job_id": "090e0854e6a2",
+      "title": "Web Developer",
+      "company": "Cohere",
+      "location": "Toronto",
+      "category": "Frontend",
+      "url": "https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8"
+    },
+    {
+      "job_id": "3de49afeb52d",
+      "title": "DevOPs Engineer (Services Team)",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Cloud and DevOps",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4470989009"
+    }
+  ],
   "removed_jobs": [
     {
-      "job_id": "f9c1b5d23835",
-      "title": "AI Solutions Developer (Remote)",
-      "company": "Geotab",
-      "location": "Oakville, Ontario - Canada"
+      "job_id": "2bed988749d9",
+      "title": "Junior Security Engineer",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
     }
   ],
   "source_errors": []

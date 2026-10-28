@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 26,
+  "job_count": 28,
   "jobs": [
     {
       "job_id": "caa8d8f5dd5d",
@@ -249,21 +249,21 @@
       "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
-      "job_id": "2bed988749d9",
-      "title": "Junior Security Engineer",
+      "job_id": "795919f166e3",
+      "title": "Junior Developer",
       "company": "1Password",
       "location": "Remote (United States | Canada)",
-      "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e",
       "source": "ashby",
-      "category": "Cloud and DevOps",
+      "category": "Software Development",
       "employment_type": "Full-time",
       "workplace_type": "Remote",
-      "posted_at": "2026-10-20",
-      "first_seen": "2026-10-20",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-28",
       "tags": [
+        "developer",
         "junior",
-        "remote",
-        "security engineer"
+        "remote"
       ],
       "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
@@ -341,6 +341,25 @@
       "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
     },
     {
+      "job_id": "090e0854e6a2",
+      "title": "Web Developer",
+      "company": "Cohere",
+      "location": "Toronto",
+      "url": "https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8",
+      "source": "ashby",
+      "category": "Frontend",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "tags": [
+        "developer",
+        "remote",
+        "web developer"
+      ],
+      "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
+    },
+    {
       "job_id": "00b2f9478d0d",
       "title": "Software Developer",
       "company": "D2L",
@@ -412,6 +431,23 @@
         "remote"
       ],
       "summary": "TAKE YOUR CAREER TO NEW HEIGHTS WITH LOOPIO! 🚀✨ Loopio’s Data Engineering Team works together on a mission to transform the RFP response process into a rapid and seamless experience. Our team works across all platform portfolio features and delivers innovative solutions where it..."
+    },
+    {
+      "job_id": "3de49afeb52d",
+      "title": "DevOPs Engineer (Services Team)",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4470989009",
+      "source": "greenhouse",
+      "category": "Cloud and DevOps",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "tags": [
+        "devops"
+      ],
+      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },
     {
       "job_id": "68883c585886",
