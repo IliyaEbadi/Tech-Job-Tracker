@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-28 17:09",
+  "generated_at": "2026-10-29 17:25",
   "totals": {
     "active_jobs": 28,
     "explicitly_junior": 11,
-    "added": 3,
-    "removed": 1,
-    "changed": 0,
-    "unchanged": 25
+    "added": 0,
+    "removed": 0,
+    "changed": 1,
+    "unchanged": 27
   },
   "by_source": [
     {
@@ -108,39 +108,7 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [
-    {
-      "job_id": "795919f166e3",
-      "title": "Junior Developer",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e"
-    },
-    {
-      "job_id": "090e0854e6a2",
-      "title": "Web Developer",
-      "company": "Cohere",
-      "location": "Toronto",
-      "category": "Frontend",
-      "url": "https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8"
-    },
-    {
-      "job_id": "3de49afeb52d",
-      "title": "DevOPs Engineer (Services Team)",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "category": "Cloud and DevOps",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4470989009"
-    }
-  ],
-  "removed_jobs": [
-    {
-      "job_id": "2bed988749d9",
-      "title": "Junior Security Engineer",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    }
-  ],
+  "new_jobs": [],
+  "removed_jobs": [],
   "source_errors": []
 }

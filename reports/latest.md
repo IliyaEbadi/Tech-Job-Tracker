@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-10-28 17:09 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-10-29 17:25 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -10,29 +10,25 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 | Metric | Value |
 |---|---|
 | Active postings tracked | 28 |
-| New this run | 3 |
-| Removed / expired this run | 1 |
-| Updated postings | 0 |
-| Unchanged postings | 25 |
+| New this run | 0 |
+| Removed / expired this run | 0 |
+| Updated postings | 1 |
+| Unchanged postings | 27 |
 | Explicitly junior / intern / new-grad titles | 11 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Junior Developer](https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e) | 1Password | Remote (United States \| Canada) | Software Development | 2026-10-28 |
-| [Web Developer](https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8) | Cohere | Toronto | Frontend | 2026-10-27 |
-| [DevOPs Engineer (Services Team)](https://job-boards.greenhouse.io/stackadapt/jobs/4470989009) | StackAdapt | Canada | Cloud and DevOps | 2026-10-28 |
+_None._
 
 ## Removed or expired since the last run
 
-| Role | Company | Location |
-|---|---|---|
-| Junior Security Engineer | 1Password | Remote (United States \| Canada) |
+_None._
 
 ## Updated postings
 
-_None._
+| Role | Company | What changed |
+|---|---|---|
+| [DevOps Engineer (Services Team)](https://job-boards.greenhouse.io/stackadapt/jobs/4470989009) | StackAdapt | title: DevOPs Engineer (Services Team) -> DevOps Engineer (Services Team) |
 
 ## Top companies (top 10)
 
