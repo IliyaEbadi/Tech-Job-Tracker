@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-29 17:25",
+  "generated_at": "2026-10-30 17:00",
   "totals": {
-    "active_jobs": 28,
-    "explicitly_junior": 11,
+    "active_jobs": 25,
+    "explicitly_junior": 10,
     "added": 0,
-    "removed": 0,
-    "changed": 1,
-    "unchanged": 27
+    "removed": 3,
+    "changed": 0,
+    "unchanged": 25
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 23
+      "jobs": 20
     },
     {
       "source": "greenhouse",
@@ -21,11 +21,11 @@
   "top_companies": [
     {
       "company": "1Password",
-      "jobs": 14
+      "jobs": 12
     },
     {
       "company": "Cohere",
-      "jobs": 5
+      "jobs": 4
     },
     {
       "company": "StackAdapt",
@@ -55,7 +55,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 17
+      "jobs": 15
     },
     {
       "category": "Frontend",
@@ -63,7 +63,7 @@
     },
     {
       "category": "Cloud and DevOps",
-      "jobs": 3
+      "jobs": 2
     },
     {
       "category": "Data and BI",
@@ -81,7 +81,7 @@
   "top_locations": [
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 14
+      "jobs": 12
     },
     {
       "location": "Canada",
@@ -89,7 +89,7 @@
     },
     {
       "location": "Toronto",
-      "jobs": 4
+      "jobs": 3
     },
     {
       "location": "Remote (Canada)",
@@ -109,6 +109,25 @@
     }
   ],
   "new_jobs": [],
-  "removed_jobs": [],
+  "removed_jobs": [
+    {
+      "job_id": "e9621a13eef3",
+      "title": "Developer, Enterprise Tenants and Policies",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
+    },
+    {
+      "job_id": "795919f166e3",
+      "title": "Junior Developer",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)"
+    },
+    {
+      "job_id": "6b312b3bf324",
+      "title": "Site Reliability Engineer, Inference Infrastructure",
+      "company": "Cohere",
+      "location": "Toronto"
+    }
+  ],
   "source_errors": []
 }

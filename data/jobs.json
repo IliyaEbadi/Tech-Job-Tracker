@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 28,
+  "job_count": 25,
   "jobs": [
     {
       "job_id": "caa8d8f5dd5d",
@@ -174,24 +174,6 @@
       "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
-      "job_id": "e9621a13eef3",
-      "title": "Developer, Enterprise Tenants and Policies",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "url": "https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6",
-      "source": "ashby",
-      "category": "Software Development",
-      "employment_type": "Full-time",
-      "workplace_type": "Remote",
-      "posted_at": "2026-09-14",
-      "first_seen": "2026-09-14",
-      "tags": [
-        "developer",
-        "remote"
-      ],
-      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
-    },
-    {
       "job_id": "d62865bb174f",
       "title": "Developer, Frontend",
       "company": "1Password",
@@ -249,25 +231,6 @@
       "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },
     {
-      "job_id": "795919f166e3",
-      "title": "Junior Developer",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e",
-      "source": "ashby",
-      "category": "Software Development",
-      "employment_type": "Full-time",
-      "workplace_type": "Remote",
-      "posted_at": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "tags": [
-        "developer",
-        "junior",
-        "remote"
-      ],
-      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
-    },
-    {
       "job_id": "dcbd5885e682",
       "title": "Product Security Engineer, North Security",
       "company": "Cohere",
@@ -282,24 +245,6 @@
       "tags": [
         "remote",
         "security engineer"
-      ],
-      "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
-    },
-    {
-      "job_id": "6b312b3bf324",
-      "title": "Site Reliability Engineer, Inference Infrastructure",
-      "company": "Cohere",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6",
-      "source": "ashby",
-      "category": "Cloud and DevOps",
-      "employment_type": "Full-time",
-      "workplace_type": "Remote",
-      "posted_at": "2026-01-12",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "remote",
-        "site reliability"
       ],
       "summary": "WHO ARE WE? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We’re training and deploying frontier models for enterprises who are building AI..."
     },
