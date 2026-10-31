@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-30 17:00",
+  "generated_at": "2026-10-31 16:05",
   "totals": {
-    "active_jobs": 25,
+    "active_jobs": 28,
     "explicitly_junior": 10,
-    "added": 0,
-    "removed": 3,
+    "added": 4,
+    "removed": 1,
     "changed": 0,
-    "unchanged": 25
+    "unchanged": 24
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 20
+      "jobs": 22
     },
     {
       "source": "greenhouse",
-      "jobs": 5
+      "jobs": 6
     }
   ],
   "top_companies": [
     {
       "company": "1Password",
-      "jobs": 12
+      "jobs": 13
     },
     {
       "company": "Cohere",
@@ -33,11 +33,11 @@
     },
     {
       "company": "Wealthsimple",
-      "jobs": 2
+      "jobs": 3
     },
     {
       "company": "D2L",
-      "jobs": 1
+      "jobs": 2
     },
     {
       "company": "Faire",
@@ -55,11 +55,11 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 15
+      "jobs": 18
     },
     {
       "category": "Frontend",
-      "jobs": 4
+      "jobs": 3
     },
     {
       "category": "Cloud and DevOps",
@@ -70,30 +70,34 @@
       "jobs": 2
     },
     {
-      "category": "Backend",
-      "jobs": 1
+      "category": "Support and Operations",
+      "jobs": 2
     },
     {
-      "category": "Support and Operations",
+      "category": "Backend",
       "jobs": 1
     }
   ],
   "top_locations": [
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 12
+      "jobs": 13
     },
     {
       "location": "Canada",
       "jobs": 5
     },
     {
+      "location": "Remote (Canada)",
+      "jobs": 3
+    },
+    {
       "location": "Toronto",
       "jobs": 3
     },
     {
-      "location": "Remote (Canada)",
-      "jobs": 2
+      "location": "Kitchener",
+      "jobs": 1
     },
     {
       "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
@@ -108,25 +112,46 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [],
-  "removed_jobs": [
+  "new_jobs": [
     {
       "job_id": "e9621a13eef3",
       "title": "Developer, Enterprise Tenants and Policies",
       "company": "1Password",
-      "location": "Remote (United States | Canada)"
+      "location": "Remote (United States | Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6"
     },
     {
-      "job_id": "795919f166e3",
-      "title": "Junior Developer",
+      "job_id": "cc27e73c2602",
+      "title": "Finance Systems Analyst - Integrations and Automation",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Support and Operations",
+      "url": "https://jobs.ashbyhq.com/1password/9d3f7564-490b-4107-b315-ece3146760a8"
+    },
+    {
+      "job_id": "48246df40e84",
+      "title": "Software Test Developer",
+      "company": "D2L",
+      "location": "Kitchener",
+      "category": "Software Development",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=1273753&gh_jid=1273753"
+    },
+    {
+      "job_id": "9e3b78524698",
+      "title": "Security Incident Response Developer",
+      "company": "Wealthsimple",
+      "location": "Remote (Canada)",
+      "category": "Software Development",
+      "url": "https://jobs.ashbyhq.com/wealthsimple/0d2fc16a-b098-4d25-ac86-351465e8d466"
+    }
+  ],
+  "removed_jobs": [
+    {
+      "job_id": "d62865bb174f",
+      "title": "Developer, Frontend",
       "company": "1Password",
       "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "6b312b3bf324",
-      "title": "Site Reliability Engineer, Inference Infrastructure",
-      "company": "Cohere",
-      "location": "Toronto"
     }
   ],
   "source_errors": []
