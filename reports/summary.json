@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-02 20:46",
+  "generated_at": "2026-11-04 18:38",
   "totals": {
-    "active_jobs": 19,
-    "explicitly_junior": 2,
+    "active_jobs": 17,
+    "explicitly_junior": 1,
     "added": 0,
-    "removed": 9,
+    "removed": 2,
     "changed": 0,
-    "unchanged": 19
+    "unchanged": 17
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 14
+      "jobs": 13
     },
     {
       "source": "greenhouse",
-      "jobs": 5
+      "jobs": 4
     }
   ],
   "top_companies": [
@@ -25,10 +25,6 @@
     },
     {
       "company": "Cohere",
-      "jobs": 4
-    },
-    {
-      "company": "StackAdapt",
       "jobs": 3
     },
     {
@@ -37,6 +33,10 @@
     },
     {
       "company": "D2L",
+      "jobs": 2
+    },
+    {
+      "company": "StackAdapt",
       "jobs": 2
     },
     {
@@ -51,11 +51,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 11
-    },
-    {
-      "category": "Cloud and DevOps",
-      "jobs": 2
+      "jobs": 10
     },
     {
       "category": "Data and BI",
@@ -68,16 +64,20 @@
     {
       "category": "Support and Operations",
       "jobs": 2
+    },
+    {
+      "category": "Cloud and DevOps",
+      "jobs": 1
     }
   ],
   "top_locations": [
     {
-      "location": "Canada",
+      "location": "Remote (United States | Canada)",
       "jobs": 5
     },
     {
-      "location": "Remote (United States | Canada)",
-      "jobs": 5
+      "location": "Canada",
+      "jobs": 3
     },
     {
       "location": "Remote (Canada)",
@@ -103,58 +103,16 @@
   "new_jobs": [],
   "removed_jobs": [
     {
-      "job_id": "caa8d8f5dd5d",
-      "title": "Developer Intern, Credential Brokering - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
+      "job_id": "ce32feb00e09",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "company": "Cohere",
+      "location": "Canada"
     },
     {
-      "job_id": "194dcaf251cd",
-      "title": "Developer Intern, Data Security - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "6305e06b15d6",
-      "title": "Developer Intern, Developer Interfaces - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "41780b29174b",
-      "title": "Developer Intern, Extension Excellence - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "983e479b9c82",
-      "title": "Developer Intern, Front-End Platform - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "b4d5d2a69c5d",
-      "title": "Developer Intern, Machine Identity - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "fb184d646c4f",
-      "title": "Developer Intern, Provisioning - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "343e40fe65a1",
-      "title": "Developer Intern, Vault Team - Winter 2027",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "793292013e00",
-      "title": "Product Engineer - Brand - Fullstack, Backend or Frontend",
-      "company": "Faire",
-      "location": "Kitchener-Waterloo, ON"
+      "job_id": "3de49afeb52d",
+      "title": "DevOps Engineer (Services Team)",
+      "company": "StackAdapt",
+      "location": "Canada"
     }
   ],
   "source_errors": []
