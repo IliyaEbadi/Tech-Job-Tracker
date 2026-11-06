@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 17,
+  "job_count": 16,
   "jobs": [
     {
       "job_id": "c78743ac8938",
@@ -235,23 +235,6 @@
       "first_seen": "2026-10-22",
       "tags": [
         "full stack"
-      ],
-      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
-    },
-    {
-      "job_id": "c9465c9e6983",
-      "title": "Integrations Developer",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4357710009",
-      "source": "greenhouse",
-      "category": "Software Development",
-      "employment_type": "",
-      "workplace_type": "",
-      "posted_at": "2026-08-10",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "developer"
       ],
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },

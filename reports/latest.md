@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-11-04 18:38 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-11-06 17:57 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,11 +9,11 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 17 |
+| Active postings tracked | 16 |
 | New this run | 0 |
-| Removed / expired this run | 2 |
+| Removed / expired this run | 1 |
 | Updated postings | 0 |
-| Unchanged postings | 17 |
+| Unchanged postings | 16 |
 | Explicitly junior / intern / new-grad titles | 1 |
 
 ## New this run
@@ -24,8 +24,7 @@ _None._
 
 | Role | Company | Location |
 |---|---|---|
-| Software Engineer Intern (Winter 2027) | Cohere | Canada |
-| DevOps Engineer (Services Team) | StackAdapt | Canada |
+| Integrations Developer | StackAdapt | Canada |
 
 ## Updated postings
 
@@ -39,15 +38,15 @@ _None._
 | Cohere | 3 |
 | Wealthsimple | 3 |
 | D2L | 2 |
-| StackAdapt | 2 |
 | Float | 1 |
 | Loopio | 1 |
+| StackAdapt | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 10 |
+| Software Development | 9 |
 | Data and BI | 2 |
 | Frontend | 2 |
 | Support and Operations | 2 |
@@ -58,9 +57,9 @@ _None._
 | Location | Postings |
 |---|---|
 | Remote (United States \| Canada) | 5 |
-| Canada | 3 |
 | Remote (Canada) | 3 |
 | Toronto | 3 |
+| Canada | 2 |
 | Kitchener | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Toronto, ON Hub | 1 |
@@ -70,7 +69,7 @@ _None._
 | Source | Postings kept |
 |---|---|
 | ashby | 13 |
-| greenhouse | 4 |
+| greenhouse | 3 |
 
 ---
 
