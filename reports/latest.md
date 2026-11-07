@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-11-06 17:57 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-11-07 16:50 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,33 +9,35 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 16 |
-| New this run | 0 |
-| Removed / expired this run | 1 |
-| Updated postings | 0 |
-| Unchanged postings | 16 |
+| Active postings tracked | 17 |
+| New this run | 1 |
+| Removed / expired this run | 0 |
+| Updated postings | 1 |
+| Unchanged postings | 15 |
 | Explicitly junior / intern / new-grad titles | 1 |
 
 ## New this run
 
-_None._
+| Role | Company | Location | Category | Posted |
+|---|---|---|---|---|
+| [Software Engineer, ML Workload Platform](https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97) | Cohere | Canada | Software Development | 2026-11-06 |
 
 ## Removed or expired since the last run
 
-| Role | Company | Location |
-|---|---|---|
-| Integrations Developer | StackAdapt | Canada |
+_None._
 
 ## Updated postings
 
-_None._
+| Role | Company | What changed |
+|---|---|---|
+| [Full Stack Development (Remote - Canada)](https://jobs.ashbyhq.com/Float/7495796a-7e24-4ed7-bad6-e71265ef6f50) | Float | url: https://jobs.ashbyhq.com/float/7495796a-7e24-4ed7-bad6-e71265ef6f50 -> https://jobs.ashbyhq.com/Float/7495796a-7e24-4ed7-bad6-e71265ef6f50 |
 
 ## Top companies (top 10)
 
 | Company | Open tracked roles |
 |---|---|
 | 1Password | 5 |
-| Cohere | 3 |
+| Cohere | 4 |
 | Wealthsimple | 3 |
 | D2L | 2 |
 | Float | 1 |
@@ -46,7 +48,7 @@ _None._
 
 | Category | Postings |
 |---|---|
-| Software Development | 9 |
+| Software Development | 10 |
 | Data and BI | 2 |
 | Frontend | 2 |
 | Support and Operations | 2 |
@@ -57,9 +59,9 @@ _None._
 | Location | Postings |
 |---|---|
 | Remote (United States \| Canada) | 5 |
+| Canada | 3 |
 | Remote (Canada) | 3 |
 | Toronto | 3 |
-| Canada | 2 |
 | Kitchener | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Toronto, ON Hub | 1 |
@@ -68,7 +70,7 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 13 |
+| ashby | 14 |
 | greenhouse | 3 |
 
 ---
