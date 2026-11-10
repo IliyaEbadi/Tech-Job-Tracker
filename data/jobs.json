@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 17,
+  "job_count": 18,
   "jobs": [
     {
       "job_id": "c78743ac8938",
@@ -91,6 +91,24 @@
         "it support",
         "junior",
         "remote"
+      ],
+      "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
+    },
+    {
+      "job_id": "d953c825fc89",
+      "title": "Security Engineer, GRC",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "url": "https://jobs.ashbyhq.com/1password/15658971-e4f4-490b-97fe-5e716ddab770",
+      "source": "ashby",
+      "category": "Cloud and DevOps",
+      "employment_type": "Full-time",
+      "workplace_type": "Remote",
+      "posted_at": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "tags": [
+        "remote",
+        "security engineer"
       ],
       "summary": "1Password is growing. We’ve surpassed $500M in ARR and we’re continuing to accelerate, earning a spot on the Forbes Cloud 100 for four years in a row and teaming up with iconic partners like Oracle Red Bull Racing. About 1Password At 1Password, we’re building the foundation for..."
     },

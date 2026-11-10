@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-07 16:50",
+  "generated_at": "2026-11-10 18:40",
   "totals": {
-    "active_jobs": 17,
+    "active_jobs": 18,
     "explicitly_junior": 1,
     "added": 1,
     "removed": 0,
-    "changed": 1,
-    "unchanged": 15
+    "changed": 0,
+    "unchanged": 17
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 14
+      "jobs": 15
     },
     {
       "source": "greenhouse",
@@ -21,7 +21,7 @@
   "top_companies": [
     {
       "company": "1Password",
-      "jobs": 5
+      "jobs": 6
     },
     {
       "company": "Cohere",
@@ -54,6 +54,10 @@
       "jobs": 10
     },
     {
+      "category": "Cloud and DevOps",
+      "jobs": 2
+    },
+    {
       "category": "Data and BI",
       "jobs": 2
     },
@@ -64,16 +68,12 @@
     {
       "category": "Support and Operations",
       "jobs": 2
-    },
-    {
-      "category": "Cloud and DevOps",
-      "jobs": 1
     }
   ],
   "top_locations": [
     {
       "location": "Remote (United States | Canada)",
-      "jobs": 5
+      "jobs": 6
     },
     {
       "location": "Canada",
@@ -102,12 +102,12 @@
   ],
   "new_jobs": [
     {
-      "job_id": "80085bf20b06",
-      "title": "Software Engineer, ML Workload Platform",
-      "company": "Cohere",
-      "location": "Canada",
-      "category": "Software Development",
-      "url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97"
+      "job_id": "d953c825fc89",
+      "title": "Security Engineer, GRC",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Cloud and DevOps",
+      "url": "https://jobs.ashbyhq.com/1password/15658971-e4f4-490b-97fe-5e716ddab770"
     }
   ],
   "removed_jobs": [],
