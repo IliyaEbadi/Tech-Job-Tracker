@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-11-10 18:40 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-11-12 18:55 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,22 +9,23 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 18 |
-| New this run | 1 |
-| Removed / expired this run | 0 |
+| Active postings tracked | 16 |
+| New this run | 0 |
+| Removed / expired this run | 2 |
 | Updated postings | 0 |
-| Unchanged postings | 17 |
-| Explicitly junior / intern / new-grad titles | 1 |
+| Unchanged postings | 16 |
+| Explicitly junior / intern / new-grad titles | 0 |
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Security Engineer, GRC](https://jobs.ashbyhq.com/1password/15658971-e4f4-490b-97fe-5e716ddab770) | 1Password | Remote (United States \| Canada) | Cloud and DevOps | 2026-11-10 |
+_None._
 
 ## Removed or expired since the last run
 
-_None._
+| Role | Company | Location |
+|---|---|---|
+| Frontend Developer, Device Security | 1Password | Remote (United States \| Canada) |
+| IT Intern, IT Support - Winter 2027 | 1Password | Remote (United States \| Canada) |
 
 ## Updated postings
 
@@ -34,7 +35,7 @@ _None._
 
 | Company | Open tracked roles |
 |---|---|
-| 1Password | 6 |
+| 1Password | 4 |
 | Cohere | 4 |
 | Wealthsimple | 3 |
 | D2L | 2 |
@@ -49,14 +50,14 @@ _None._
 | Software Development | 10 |
 | Cloud and DevOps | 2 |
 | Data and BI | 2 |
-| Frontend | 2 |
-| Support and Operations | 2 |
+| Frontend | 1 |
+| Support and Operations | 1 |
 
 ## Top locations
 
 | Location | Postings |
 |---|---|
-| Remote (United States \| Canada) | 6 |
+| Remote (United States \| Canada) | 4 |
 | Canada | 3 |
 | Remote (Canada) | 3 |
 | Toronto | 3 |
@@ -68,7 +69,7 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 15 |
+| ashby | 13 |
 | greenhouse | 3 |
 
 ---
