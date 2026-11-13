@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-12 18:55",
+  "generated_at": "2026-11-13 18:31",
   "totals": {
     "active_jobs": 16,
     "explicitly_junior": 0,
-    "added": 0,
-    "removed": 2,
+    "added": 1,
+    "removed": 1,
     "changed": 0,
-    "unchanged": 16
+    "unchanged": 15
   },
   "by_source": [
     {
@@ -51,11 +51,11 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 10
+      "jobs": 9
     },
     {
       "category": "Cloud and DevOps",
-      "jobs": 2
+      "jobs": 3
     },
     {
       "category": "Data and BI",
@@ -100,17 +100,20 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "8869279d5de4",
+      "title": "Security Engineer, Corporate Security",
+      "company": "1Password",
+      "location": "Remote (United States | Canada)",
+      "category": "Cloud and DevOps",
+      "url": "https://jobs.ashbyhq.com/1password/13200311-77c5-49ed-a3ce-8460d5c72d91"
+    }
+  ],
   "removed_jobs": [
     {
-      "job_id": "590c90e9034b",
-      "title": "Frontend Developer, Device Security",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
-    },
-    {
-      "job_id": "c09af2aa4214",
-      "title": "IT Intern, IT Support - Winter 2027",
+      "job_id": "e9621a13eef3",
+      "title": "Developer, Enterprise Tenants and Policies",
       "company": "1Password",
       "location": "Remote (United States | Canada)"
     }
