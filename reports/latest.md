@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-11-13 18:31 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-11-14 17:06 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,8 +9,8 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 16 |
-| New this run | 1 |
+| Active postings tracked | 15 |
+| New this run | 0 |
 | Removed / expired this run | 1 |
 | Updated postings | 0 |
 | Unchanged postings | 15 |
@@ -18,15 +18,13 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 ## New this run
 
-| Role | Company | Location | Category | Posted |
-|---|---|---|---|---|
-| [Security Engineer, Corporate Security](https://jobs.ashbyhq.com/1password/13200311-77c5-49ed-a3ce-8460d5c72d91) | 1Password | Remote (United States \| Canada) | Cloud and DevOps | 2026-11-12 |
+_None._
 
 ## Removed or expired since the last run
 
 | Role | Company | Location |
 |---|---|---|
-| Developer, Enterprise Tenants and Policies | 1Password | Remote (United States \| Canada) |
+| Data Scientist, Sales | Wealthsimple | Remote (Canada) |
 
 ## Updated postings
 
@@ -38,8 +36,8 @@ _None._
 |---|---|
 | 1Password | 4 |
 | Cohere | 4 |
-| Wealthsimple | 3 |
 | D2L | 2 |
+| Wealthsimple | 2 |
 | Float | 1 |
 | Loopio | 1 |
 | StackAdapt | 1 |
@@ -50,7 +48,7 @@ _None._
 |---|---|
 | Software Development | 9 |
 | Cloud and DevOps | 3 |
-| Data and BI | 2 |
+| Data and BI | 1 |
 | Frontend | 1 |
 | Support and Operations | 1 |
 
@@ -60,8 +58,8 @@ _None._
 |---|---|
 | Remote (United States \| Canada) | 4 |
 | Canada | 3 |
-| Remote (Canada) | 3 |
 | Toronto | 3 |
+| Remote (Canada) | 2 |
 | Kitchener | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
 | Toronto, ON Hub | 1 |
@@ -70,7 +68,7 @@ _None._
 
 | Source | Postings kept |
 |---|---|
-| ashby | 13 |
+| ashby | 12 |
 | greenhouse | 3 |
 
 ---

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13 18:31",
+  "generated_at": "2026-11-14 17:06",
   "totals": {
-    "active_jobs": 16,
+    "active_jobs": 15,
     "explicitly_junior": 0,
-    "added": 1,
+    "added": 0,
     "removed": 1,
     "changed": 0,
     "unchanged": 15
@@ -11,7 +11,7 @@
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 13
+      "jobs": 12
     },
     {
       "source": "greenhouse",
@@ -28,11 +28,11 @@
       "jobs": 4
     },
     {
-      "company": "Wealthsimple",
-      "jobs": 3
+      "company": "D2L",
+      "jobs": 2
     },
     {
-      "company": "D2L",
+      "company": "Wealthsimple",
       "jobs": 2
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "category": "Data and BI",
-      "jobs": 2
+      "jobs": 1
     },
     {
       "category": "Frontend",
@@ -80,12 +80,12 @@
       "jobs": 3
     },
     {
-      "location": "Remote (Canada)",
+      "location": "Toronto",
       "jobs": 3
     },
     {
-      "location": "Toronto",
-      "jobs": 3
+      "location": "Remote (Canada)",
+      "jobs": 2
     },
     {
       "location": "Kitchener",
@@ -100,22 +100,13 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [
-    {
-      "job_id": "8869279d5de4",
-      "title": "Security Engineer, Corporate Security",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)",
-      "category": "Cloud and DevOps",
-      "url": "https://jobs.ashbyhq.com/1password/13200311-77c5-49ed-a3ce-8460d5c72d91"
-    }
-  ],
+  "new_jobs": [],
   "removed_jobs": [
     {
-      "job_id": "e9621a13eef3",
-      "title": "Developer, Enterprise Tenants and Policies",
-      "company": "1Password",
-      "location": "Remote (United States | Canada)"
+      "job_id": "de39da12c7d5",
+      "title": "Data Scientist, Sales",
+      "company": "Wealthsimple",
+      "location": "Remote (Canada)"
     }
   ],
   "source_errors": []
