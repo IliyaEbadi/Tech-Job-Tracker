@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 15,
+  "job_count": 14,
   "jobs": [
     {
       "job_id": "c78743ac8938",
@@ -184,24 +184,6 @@
       "summary": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable..."
     },
     {
-      "job_id": "1911923c9b23",
-      "title": "Full Stack Development (Remote - Canada)",
-      "company": "Float",
-      "location": "Canada",
-      "url": "https://jobs.ashbyhq.com/Float/7495796a-7e24-4ed7-bad6-e71265ef6f50",
-      "source": "ashby",
-      "category": "Software Development",
-      "employment_type": "Full-time",
-      "workplace_type": "Remote",
-      "posted_at": "2026-08-22",
-      "first_seen": "2026-08-26",
-      "tags": [
-        "full stack",
-        "remote"
-      ],
-      "summary": "This posting reflects a current, actively recruited opening at Float. All applications are being reviewed on a rolling basis. ABOUT FLOAT Float is on a mission to simplify finance for Canadian businesses, empowering them to eliminate complexity and unlock new opportunities..."
-    },
-    {
       "job_id": "22eaf1254332",
       "title": "Data Engineer",
       "company": "Loopio",
@@ -220,19 +202,19 @@
       "summary": "TAKE YOUR CAREER TO NEW HEIGHTS WITH LOOPIO! 🚀✨ Loopio’s Data Engineering Team works together on a mission to transform the RFP response process into a rapid and seamless experience. Our team works across all platform portfolio features and delivers innovative solutions where it..."
     },
     {
-      "job_id": "68883c585886",
-      "title": "Full Stack Engineer",
+      "job_id": "021a8188a499",
+      "title": "Software Engineer, Identity",
       "company": "StackAdapt",
       "location": "Canada",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4509035009",
       "source": "greenhouse",
       "category": "Software Development",
       "employment_type": "",
       "workplace_type": "",
-      "posted_at": "2026-06-03",
-      "first_seen": "2026-10-22",
+      "posted_at": "2026-11-16",
+      "first_seen": "2026-11-16",
       "tags": [
-        "full stack"
+        "software engineer"
       ],
       "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },

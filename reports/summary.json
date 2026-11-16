@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-14 17:06",
+  "generated_at": "2026-11-16 21:01",
   "totals": {
-    "active_jobs": 15,
+    "active_jobs": 14,
     "explicitly_junior": 0,
-    "added": 0,
-    "removed": 1,
+    "added": 1,
+    "removed": 2,
     "changed": 0,
-    "unchanged": 15
+    "unchanged": 13
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 12
+      "jobs": 11
     },
     {
       "source": "greenhouse",
@@ -36,10 +36,6 @@
       "jobs": 2
     },
     {
-      "company": "Float",
-      "jobs": 1
-    },
-    {
       "company": "Loopio",
       "jobs": 1
     },
@@ -51,7 +47,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 9
+      "jobs": 8
     },
     {
       "category": "Cloud and DevOps",
@@ -76,12 +72,12 @@
       "jobs": 4
     },
     {
-      "location": "Canada",
+      "location": "Toronto",
       "jobs": 3
     },
     {
-      "location": "Toronto",
-      "jobs": 3
+      "location": "Canada",
+      "jobs": 2
     },
     {
       "location": "Remote (Canada)",
@@ -100,13 +96,28 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [],
+  "new_jobs": [
+    {
+      "job_id": "021a8188a499",
+      "title": "Software Engineer, Identity",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "category": "Software Development",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4509035009"
+    }
+  ],
   "removed_jobs": [
     {
-      "job_id": "de39da12c7d5",
-      "title": "Data Scientist, Sales",
-      "company": "Wealthsimple",
-      "location": "Remote (Canada)"
+      "job_id": "1911923c9b23",
+      "title": "Full Stack Development (Remote - Canada)",
+      "company": "Float",
+      "location": "Canada"
+    },
+    {
+      "job_id": "68883c585886",
+      "title": "Full Stack Engineer",
+      "company": "StackAdapt",
+      "location": "Canada"
     }
   ],
   "source_errors": []
