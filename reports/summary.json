@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-16 21:01",
+  "generated_at": "2026-11-17 19:50",
   "totals": {
-    "active_jobs": 14,
+    "active_jobs": 15,
     "explicitly_junior": 0,
     "added": 1,
-    "removed": 2,
+    "removed": 0,
     "changed": 0,
-    "unchanged": 13
+    "unchanged": 14
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 11
+      "jobs": 12
     },
     {
       "source": "greenhouse",
@@ -28,11 +28,11 @@
       "jobs": 4
     },
     {
-      "company": "D2L",
-      "jobs": 2
+      "company": "Wealthsimple",
+      "jobs": 3
     },
     {
-      "company": "Wealthsimple",
+      "company": "D2L",
       "jobs": 2
     },
     {
@@ -55,7 +55,7 @@
     },
     {
       "category": "Data and BI",
-      "jobs": 1
+      "jobs": 2
     },
     {
       "category": "Frontend",
@@ -72,15 +72,15 @@
       "jobs": 4
     },
     {
+      "location": "Remote (Canada)",
+      "jobs": 3
+    },
+    {
       "location": "Toronto",
       "jobs": 3
     },
     {
       "location": "Canada",
-      "jobs": 2
-    },
-    {
-      "location": "Remote (Canada)",
       "jobs": 2
     },
     {
@@ -98,27 +98,14 @@
   ],
   "new_jobs": [
     {
-      "job_id": "021a8188a499",
-      "title": "Software Engineer, Identity",
-      "company": "StackAdapt",
-      "location": "Canada",
-      "category": "Software Development",
-      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4509035009"
+      "job_id": "de39da12c7d5",
+      "title": "Data Scientist, Sales",
+      "company": "Wealthsimple",
+      "location": "Remote (Canada)",
+      "category": "Data and BI",
+      "url": "https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1"
     }
   ],
-  "removed_jobs": [
-    {
-      "job_id": "1911923c9b23",
-      "title": "Full Stack Development (Remote - Canada)",
-      "company": "Float",
-      "location": "Canada"
-    },
-    {
-      "job_id": "68883c585886",
-      "title": "Full Stack Engineer",
-      "company": "StackAdapt",
-      "location": "Canada"
-    }
-  ],
+  "removed_jobs": [],
   "source_errors": []
 }
