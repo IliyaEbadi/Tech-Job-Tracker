@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 15,
+  "job_count": 14,
   "jobs": [
     {
       "job_id": "c78743ac8938",
@@ -248,24 +248,6 @@
       "workplace_type": "Remote",
       "posted_at": "2026-10-08",
       "first_seen": "2026-10-08",
-      "tags": [
-        "developer",
-        "remote"
-      ],
-      "summary": "BUILD SOMETHING PEOPLE LOVE Wealthsimple is Canada’s leading financial innovator. The company offers a full suite of simple, sophisticated financial products across managed investing, do-it-yourself trading, cryptocurrency, tax filing, spending and saving. Wealthsimple currently..."
-    },
-    {
-      "job_id": "9e3b78524698",
-      "title": "Security Incident Response Developer",
-      "company": "Wealthsimple",
-      "location": "Remote (Canada)",
-      "url": "https://jobs.ashbyhq.com/wealthsimple/0d2fc16a-b098-4d25-ac86-351465e8d466",
-      "source": "ashby",
-      "category": "Software Development",
-      "employment_type": "Full-time",
-      "workplace_type": "Remote",
-      "posted_at": "2026-10-30",
-      "first_seen": "2026-10-31",
       "tags": [
         "developer",
         "remote"

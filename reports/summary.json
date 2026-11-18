@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-17 19:50",
+  "generated_at": "2026-11-18 19:24",
   "totals": {
-    "active_jobs": 15,
+    "active_jobs": 14,
     "explicitly_junior": 0,
-    "added": 1,
-    "removed": 0,
+    "added": 0,
+    "removed": 1,
     "changed": 0,
     "unchanged": 14
   },
   "by_source": [
     {
       "source": "ashby",
-      "jobs": 12
+      "jobs": 11
     },
     {
       "source": "greenhouse",
@@ -28,11 +28,11 @@
       "jobs": 4
     },
     {
-      "company": "Wealthsimple",
-      "jobs": 3
+      "company": "D2L",
+      "jobs": 2
     },
     {
-      "company": "D2L",
+      "company": "Wealthsimple",
       "jobs": 2
     },
     {
@@ -47,7 +47,7 @@
   "by_category": [
     {
       "category": "Software Development",
-      "jobs": 8
+      "jobs": 7
     },
     {
       "category": "Cloud and DevOps",
@@ -72,15 +72,15 @@
       "jobs": 4
     },
     {
-      "location": "Remote (Canada)",
-      "jobs": 3
-    },
-    {
       "location": "Toronto",
       "jobs": 3
     },
     {
       "location": "Canada",
+      "jobs": 2
+    },
+    {
+      "location": "Remote (Canada)",
       "jobs": 2
     },
     {
@@ -96,16 +96,14 @@
       "jobs": 1
     }
   ],
-  "new_jobs": [
+  "new_jobs": [],
+  "removed_jobs": [
     {
-      "job_id": "de39da12c7d5",
-      "title": "Data Scientist, Sales",
+      "job_id": "9e3b78524698",
+      "title": "Security Incident Response Developer",
       "company": "Wealthsimple",
-      "location": "Remote (Canada)",
-      "category": "Data and BI",
-      "url": "https://jobs.ashbyhq.com/wealthsimple/7b8be733-8b6d-4135-b694-1574d02c4dc1"
+      "location": "Remote (Canada)"
     }
   ],
-  "removed_jobs": [],
   "source_errors": []
 }
