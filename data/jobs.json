@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "job_count": 14,
+  "job_count": 15,
   "jobs": [
     {
       "job_id": "c78743ac8938",
@@ -200,6 +200,23 @@
         "remote"
       ],
       "summary": "TAKE YOUR CAREER TO NEW HEIGHTS WITH LOOPIO! 🚀✨ Loopio’s Data Engineering Team works together on a mission to transform the RFP response process into a rapid and seamless experience. Our team works across all platform portfolio features and delivers innovative solutions where it..."
+    },
+    {
+      "job_id": "68883c585886",
+      "title": "Full Stack Engineer",
+      "company": "StackAdapt",
+      "location": "Canada",
+      "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009",
+      "source": "greenhouse",
+      "category": "Software Development",
+      "employment_type": "",
+      "workplace_type": "",
+      "posted_at": "2026-06-03",
+      "first_seen": "2026-11-20",
+      "tags": [
+        "full stack"
+      ],
+      "summary": "StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to..."
     },
     {
       "job_id": "021a8188a499",

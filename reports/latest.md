@@ -1,6 +1,6 @@
 # Toronto Tech Job Intelligence - Latest Report
 
-<!-- generated-at --> _Last meaningful update: 2026-11-18 19:24 UTC_
+<!-- generated-at --> _Last meaningful update: 2026-11-20 19:05 UTC_
 
 Entry-level technology roles in Toronto and the GTA, collected from public
 job-board APIs. This file is regenerated only when the underlying data changes.
@@ -9,22 +9,22 @@ job-board APIs. This file is regenerated only when the underlying data changes.
 
 | Metric | Value |
 |---|---|
-| Active postings tracked | 14 |
-| New this run | 0 |
-| Removed / expired this run | 1 |
+| Active postings tracked | 15 |
+| New this run | 1 |
+| Removed / expired this run | 0 |
 | Updated postings | 0 |
 | Unchanged postings | 14 |
 | Explicitly junior / intern / new-grad titles | 0 |
 
 ## New this run
 
-_None._
+| Role | Company | Location | Category | Posted |
+|---|---|---|---|---|
+| [Full Stack Engineer](https://job-boards.greenhouse.io/stackadapt/jobs/4261506009) | StackAdapt | Canada | Software Development | 2026-06-03 |
 
 ## Removed or expired since the last run
 
-| Role | Company | Location |
-|---|---|---|
-| Security Incident Response Developer | Wealthsimple | Remote (Canada) |
+_None._
 
 ## Updated postings
 
@@ -37,15 +37,15 @@ _None._
 | 1Password | 4 |
 | Cohere | 4 |
 | D2L | 2 |
+| StackAdapt | 2 |
 | Wealthsimple | 2 |
 | Loopio | 1 |
-| StackAdapt | 1 |
 
 ## Roles by category
 
 | Category | Postings |
 |---|---|
-| Software Development | 7 |
+| Software Development | 8 |
 | Cloud and DevOps | 3 |
 | Data and BI | 2 |
 | Frontend | 1 |
@@ -56,8 +56,8 @@ _None._
 | Location | Postings |
 |---|---|
 | Remote (United States \| Canada) | 4 |
+| Canada | 3 |
 | Toronto | 3 |
-| Canada | 2 |
 | Remote (Canada) | 2 |
 | Kitchener | 1 |
 | Kitchener, Toronto, Winnipeg, Vancouver... | 1 |
@@ -68,7 +68,7 @@ _None._
 | Source | Postings kept |
 |---|---|
 | ashby | 11 |
-| greenhouse | 3 |
+| greenhouse | 4 |
 
 ---
 
